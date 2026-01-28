@@ -1,0 +1,2824 @@
+fileFormatVersion: 2
+guid: 57ff9e17ce719ce4a9a02d973bd0317d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1187
+        width: 191
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5335e6eaaf5ea1f4ea0689c098bbfd93
+      internalID: 1650085860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1380
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e14655fc8e0ad4c9fd22f2cedf35a1
+      internalID: 633896140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1338
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf21e96cc9c09c848bf461aa36ce44e4
+      internalID: 1004260496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1185
+        width: 191
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78ce18bb33c2e1408b22d9bf999f50c
+      internalID: -890501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_4
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1185
+        width: 191
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b5b46aaed6d8419ac61f6a5c7b9a8
+      internalID: 1312334089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_5
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1185
+        width: 191
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489bd77cc722e904ca353cda287638c2
+      internalID: 1490507062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_6
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1185
+        width: 191
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b57974804fcba4babb8cd98e1ed69a
+      internalID: 896582801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_7
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1185
+        width: 191
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c28f31863aba144b9bab9f3492730f
+      internalID: 1586011772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1233
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e72a3cd5a76fe24ba5a2d43efd6d909
+      internalID: 409229239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1276
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb37132d2dbeaa4dbc2090ad794700a
+      internalID: -1536658725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1338
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a023014fe848ab74b9c636f9bbdcc1e8
+      internalID: 1492256864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1338
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5733cc0f49b4c4e8f495faae55c2db
+      internalID: 315750998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1335
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a13f8409d7d34195ce704766f5dda
+      internalID: -1280815072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1335
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c4a8d6690f0c14ba8b0fb7efcd499c
+      internalID: 2141766947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1338
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3612ef320c8f47abeb02dd45f2651
+      internalID: -1513353844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1266
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ce186852628e143a0920804516ed95
+      internalID: 644085076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1321
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57773cdfdef3014590e625de4157d12
+      internalID: 738657428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc087deda34be124fa463e06ee6b86e6
+      internalID: 206730467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1321
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadae8323d3e1be41873df4aed46e177
+      internalID: 758580306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_19
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e050af7530fd4b81ea8dae9998f38
+      internalID: 943467309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_20
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1321
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb158c8898d36945889f74eaf1684bc
+      internalID: -302767056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1321
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb01d2d09a8a34f96782a49bb1231b
+      internalID: -91313993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_22
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc0fe1b31b09c4cadf40b5af4b8e7a
+      internalID: -769531477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_23
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01bfef9efa746a47906a1ea684df8a0
+      internalID: -2026442076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1321
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be0c558bf159bf4383b9b4e9a521a12
+      internalID: -898201165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_25
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1318
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ce1e710942474087891b2871e54af
+      internalID: -792930672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9494f4806ae6e498cfcc49775d7204
+      internalID: 1476941293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_27
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1321
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35c8c861ca36540bf6a06868d968b0
+      internalID: 1121391216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84dc512fd87e9f4f86b6c986694970d
+      internalID: 251644120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_29
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1321
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd939e79465492479eb9e8fe2f92af5
+      internalID: 1085502760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_30
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1321
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026309f4c1adea4bb937ab2f9f9874a
+      internalID: -2009559024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_31
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1321
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69855c61f06a1594ab2719cab4f5a091
+      internalID: -1152133904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1bcbee5280084e9f3bed5b0d647e3
+      internalID: -1375813312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_33
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c413d4ab9a815c742a4ff1a896d67aef
+      internalID: -729537698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f99be2d3875e9489c7355d4de23faa
+      internalID: -1181162325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1304
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baa180d73fe5f347bbb2e32cf7d40cf
+      internalID: -986768829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1302
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9bccaaf824da4f8fb2f12a9d2d914
+      internalID: -995412470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1304
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a1ed83d6f14b47bb6d4d68c9baa7b
+      internalID: -1780049923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce818571661a5b469e09c7bbb4285b7
+      internalID: -29827132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_39
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1304
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf64bd62b28ef408e2462912cab564
+      internalID: 1992356633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_40
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1301
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9d6a3baaf48aa4082656d2ac82a354
+      internalID: -263661549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_41
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e34af7abcd075449c75d99008b862b
+      internalID: -1617729782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_42
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1304
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4959bb3d06e84cb3db0e18cd69e0a
+      internalID: 463848556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1304
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9a7eee525e6a4d9c7ffb24b399795
+      internalID: 1325909442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1304
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f531bfd803f14fe459cf3750984fce29
+      internalID: -509604509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce292aff5c17d24db0a8675d4769986
+      internalID: 849172338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed91a1ab1fbb6d34ba639d917ac95000
+      internalID: 367418183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_47
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1304
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0d4c373127d24f994d71a4a4a168b
+      internalID: -1532745495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_48
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f36f89ab36ab4f802fe3c5390e92f
+      internalID: 917063097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1103
+        width: 151
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6559512a22f12749a0f23ef6bce0a63
+      internalID: 1139285819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1097
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba135ff427808be4c84a00d2af2d6312
+      internalID: -289062837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1121
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed7bbef445366b4ab492d6a28bbbbd3
+      internalID: 813376928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1133
+        width: 30
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7c8aac7ae51b46988fcb96dd2312e
+      internalID: 1219982149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_53
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1125
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3deedb65a842b46bbb600f476d3306
+      internalID: 1195224444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_54
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefad7e9d4fe48c468c3453787cb6dca
+      internalID: 231902760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_55
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0421eb043507c4ab41f93051cd9ee2
+      internalID: 1352179296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_56
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41fc10ccbd6e9549aeaf3644b837550
+      internalID: 1384840658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_57
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6c67c4fbb1954b95382a74b3fac09
+      internalID: 1766310928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_58
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1161
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de70259c7bb3f314cb746803964a494e
+      internalID: 1570350267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_59
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1161
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e311a03d61544995ae61376008707
+      internalID: -461711709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_60
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1158
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac54dc76aebca574885685d21b9e5e6d
+      internalID: -2112963151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_61
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1108
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb35a64d59f324d9133312ecee44b9
+      internalID: -1857950156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_62
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1143
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6db0325bf44284194c8b04273a3730
+      internalID: 1203666957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_63
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1100
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5fd7d359128846bed0cc7e1603564
+      internalID: -1785091545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_64
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1100
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe138134868c6b4188471ab5a49d1d8
+      internalID: 1185886256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_65
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1100
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba010d7566ee74ab7c7f3d590cc8bf
+      internalID: -1868774701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_66
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1102
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13df1cabc9e424a40b4a90271599d6d9
+      internalID: 763632616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_67
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1102
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfcdaba1e5e2234cb65cd3a9e02fb74
+      internalID: -1357193842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_68
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6e030f175d0f43abc88c330fd5de9
+      internalID: -1046895508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e637d1d24a57c4ab65e6b86121d13f
+      internalID: -1706776884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_70
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1124
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0486bc43a9364341b0844ff4753d49f
+      internalID: -1283165586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_71
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1124
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1077258cde344a4eb95f675e1bd8e36
+      internalID: -1635478238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_72
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea5379cf36914546aac9510cb16c9f2
+      internalID: -779582758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_73
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 868
+        width: 491
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb00bf26dd62df44aded8b540ed156e
+      internalID: -1621507765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_74
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1108
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7822be08cebda2478ecbb749bde9ed9
+      internalID: -1469813074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_75
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b13f14aa16e26419b0c57158947af2
+      internalID: -636019645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_76
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19f3a80a21ada4db22e51143a97e2e
+      internalID: -642423055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_77
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1111
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e03259f1e3554683f773758237bb7
+      internalID: -1401795432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_78
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d7a997c394f94282c5d3dac43e772
+      internalID: 1631412539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_79
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1108
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6df8a0d98e37a48b077c708595b394
+      internalID: -352226587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_80
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a9d726758b8be409b54d1e4cd71384
+      internalID: -805087203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_81
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf15c6f6b5aee240a69968e59499cfa
+      internalID: 412104145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_82
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b95935b4b0694ca9a4c260bdee60a
+      internalID: 428763694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_83
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1111
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e04a1fd853f7c14db5ed7f9c869cfbb
+      internalID: 410701101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_84
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4e8e7d9da94745b2f8ce15d35fc0b
+      internalID: -1186684699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_85
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1111
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b1e7a6220ade448e7ed5fd3b88b25
+      internalID: -1855715615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_86
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1111
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285e75f8974d53448b7bb0841070180e
+      internalID: -461561294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 848
+        width: 154
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eb2de5be7e3b342a61184aa13bfbe6
+      internalID: -1121160608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_88
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 848
+        width: 215
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e66b5d25f42bd41ae6f06d66c0f124
+      internalID: -747322702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_89
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 848
+        width: 193
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce97f9d063f7244835d8be76c962d1
+      internalID: -400395003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_90
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 848
+        width: 188
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311e8260a349c0c498317e9dc6b3879b
+      internalID: 1645005324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_91
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 991
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a574646b4ebbe4cb22c4f4794cff61
+      internalID: -944596922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_92
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 848
+        width: 176
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccf1a7691c114b4090cb74141c66cd0
+      internalID: -439660181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 593
+        width: 195
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a3909fa5a63a4eb16dc8481beea77
+      internalID: 1417726343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_94
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 593
+        width: 201
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df321c1c6954c41468a82617921eea5a
+      internalID: 1931436648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 662
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecbc7c94dc5a8a46a94953c1c75be1b
+      internalID: 406379246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_96
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 593
+        width: 179
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a45b03be0bc02e4fb86af9b9f2213dc
+      internalID: 643231658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_97
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 593
+        width: 181
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ec7278a7394a84e8dc7372f2868580
+      internalID: 1352069076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_98
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 632
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa0a6a7ab2f964aa72290b2930af78
+      internalID: -1531437153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_99
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 593
+        width: 211
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64312a131017c4397266bc4e455e32
+      internalID: 897148182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_100
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 593
+        width: 178
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be61235bf9a4a4a8c307eb035f8b39
+      internalID: 1124336295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_101
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 593
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311ee66f7929e914e98eeb3c1a7e4c35
+      internalID: -1461047481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_102
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 676
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea2db056af1a14bb74ad7a54c7ca58
+      internalID: -1279911248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_103
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 535
+        width: 194
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b26c7864eaffc748b8760a9dc1e865c
+      internalID: -215587374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 299
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1690355b423aeb448821b6c15ff262eb
+      internalID: -1100792852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_105
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 299
+        width: 172
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9635d1e75caef9748b6236c41417b941
+      internalID: -1942132983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_106
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 407
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c5924581886e74b9c91d08f3077290
+      internalID: 360082793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 299
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad08c57c3212994e84192144c3be4c6
+      internalID: 1756041150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_108
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 299
+        width: 296
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa707f9501b3624a974c388d80f4d6b
+      internalID: -1619258096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_109
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 299
+        width: 178
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382d8d8f1dd1d64cb1fb74b5d685069
+      internalID: 1999256849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_110
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 299
+        width: 176
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa3eb39dec204408796c09ae6849c5
+      internalID: 1037572945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_111
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 194
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef53e6a0c33d1a14eb25987480e86d56
+      internalID: 1038218676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 113
+        width: 13
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b48b5af4d54446970a6186e38ca2c
+      internalID: -383901956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_113
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3
+        width: 226
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280fa5ee277659f4c87e708fed041944
+      internalID: -416732246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_114
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3
+        width: 211
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee7e3a3335dc947b3214abd011194d
+      internalID: 579016354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_115
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3
+        width: 182
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1e9dfd471e2640a0e1fd30c879282
+      internalID: -529226521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_116
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 3
+        width: 208
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0255c2cab14e498fe74d741ad6444
+      internalID: 1238063888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_117
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 205
+        width: 157
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7972c6ef51a69442bc4c117e018a2b4
+      internalID: 999050481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_118
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 163
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfb7b7ba424734bba362ba103c0e68
+      internalID: 748601359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_119
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 33
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5e04cbbc946a4ab877a5429693987
+      internalID: 1433309336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_120
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3
+        width: 219
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571974c4b783e14eb5572ffd59a43c5
+      internalID: 1172397901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_121
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3
+        width: 182
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466b62a8718bc34bbf3826cfc22203b
+      internalID: 1732853088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_0: 1650085860
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_1: 633896140
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_10: 1492256864
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_100: 1124336295
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_101: -1461047481
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_102: -1279911248
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_103: -215587374
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_104: -1100792852
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_105: -1942132983
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_106: 360082793
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_107: 1756041150
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_108: -1619258096
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_109: 1999256849
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_11: 315750998
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_110: 1037572945
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_111: 1038218676
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_112: -383901956
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_113: -416732246
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_114: 579016354
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_115: -529226521
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_116: 1238063888
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_117: 999050481
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_118: 748601359
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_119: 1433309336
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_12: -1280815072
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_120: 1172397901
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_121: 1732853088
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_13: 2141766947
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_14: -1513353844
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_15: 644085076
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_16: 738657428
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_17: 206730467
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_18: 758580306
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_19: 943467309
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_2: 1004260496
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_20: -302767056
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_21: -91313993
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_22: -769531477
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_23: -2026442076
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_24: -898201165
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_25: -792930672
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_26: 1476941293
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_27: 1121391216
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_28: 251644120
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_29: 1085502760
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_3: -890501317
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_30: -2009559024
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_31: -1152133904
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_32: -1375813312
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_33: -729537698
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_34: -1181162325
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_35: -986768829
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_36: -995412470
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_37: -1780049923
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_38: -29827132
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_39: 1992356633
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_4: 1312334089
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_40: -263661549
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_41: -1617729782
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_42: 463848556
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_43: 1325909442
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_44: -509604509
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_45: 849172338
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_46: 367418183
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_47: -1532745495
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_48: 917063097
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_49: 1139285819
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_5: 1490507062
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_50: -289062837
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_51: 813376928
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_52: 1219982149
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_53: 1195224444
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_54: 231902760
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_55: 1352179296
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_56: 1384840658
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_57: 1766310928
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_58: 1570350267
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_59: -461711709
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_6: 896582801
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_60: -2112963151
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_61: -1857950156
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_62: 1203666957
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_63: -1785091545
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_64: 1185886256
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_65: -1868774701
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_66: 763632616
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_67: -1357193842
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_68: -1046895508
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_69: -1706776884
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_7: 1586011772
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_70: -1283165586
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_71: -1635478238
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_72: -779582758
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_73: -1621507765
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_74: -1469813074
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_75: -636019645
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_76: -642423055
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_77: -1401795432
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_78: 1631412539
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_79: -352226587
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_8: 409229239
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_80: -805087203
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_81: 412104145
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_82: 428763694
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_83: 410701101
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_84: -1186684699
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_85: -1855715615
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_86: -461561294
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_87: -1121160608
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_88: -747322702
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_89: -400395003
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_9: -1536658725
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_90: 1645005324
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_91: -944596922
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_92: -439660181
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_93: 1417726343
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_94: 1931436648
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_95: 406379246
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_96: 643231658
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_97: 1352069076
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_98: -1531437153
+      Browser Games - Marvel_ Avengers Alliance - Villains - Kingpin_99: 897148182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
