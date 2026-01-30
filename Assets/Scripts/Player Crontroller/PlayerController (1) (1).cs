@@ -15,8 +15,16 @@ public class prueba : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer; // arrastarrlo en el isnpector
 
-    
-    
+    //Referencia a la camara
+    public Camera mainCamera;
+
+    private void Start()
+    {
+        //Buscar cámara automaticamente si no esta asignada
+        if(mainCamera == null)
+            mainCamera = Camera.main;
+    }
+
 
     // Update is called once per frame
     void Update()
@@ -29,11 +37,14 @@ public class prueba : MonoBehaviour
         Vector3 move = new Vector3(inputX * speedH, inputY * speedV, 0f);
         transform.position += move * Time.deltaTime;
 
+        //Limitador: no pasa de la mitad de la pantalla
+        LimitarPantalla();
+
         //Animaciones (Detecta movimiento)
         bool isMoving = (inputX != 0 || inputY != 0);
         animator.SetBool("IsMoving", isMoving);
 
-        //Girar sprte
+        //Girar sprite
 
         if (inputX > 0)
             spriteRenderer.flipX = false; //Mirando a la derecha
@@ -50,4 +61,17 @@ public class prueba : MonoBehaviour
 
     }
 
+    //Limitador de pantalla
+    void LimitarPantalla()
+    {
+        Vector3 pos = transform.position;
+
+        //Altura visible de la camara
+        float halfHeight = mainCamera.orthographicSize;
+
+        //Limitar Y: desde arriba (0) hasta la mitad de la pantalla
+        pos.y = Mathf.Clamp(pos.y, -halfHeight, 0f);
+
+        transform.position = pos;
+    }
 }
