@@ -1,0 +1,2648 @@
+fileFormatVersion: 2
+guid: 7b205eadb04229843a923837de2b0a8e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2367
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f7999069c848e45bb0bb6bfb33aa19
+      internalID: -813243288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2635
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b52f2e8d06c074fb8b20c5d517f0b7
+      internalID: 939204377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2387
+        width: 704
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0019e7f46826e64da93f144d74f039b
+      internalID: -1774359133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_3
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2570
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cdad64d9ffcb440ad926085c456497
+      internalID: 1928052586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2443
+        width: 88
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878cface221ff1b4cb8f88328cd6083e
+      internalID: -1387926210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2502
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122401943754a44418ac6123451392ae
+      internalID: -920652721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2451
+        width: 86
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86fe9c0981572e4f89dca5f710f61f5
+      internalID: 265899866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_7
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 2586
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049a94cfb2ff054aa527da386c2943a
+      internalID: 466487589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_8
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2554
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04c46a8dbc1a6545a22593662a88834
+      internalID: -302364722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_9
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2551
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c1100ef3a49b24bbea3df4b2531237
+      internalID: -201773455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_10
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2537
+        width: 122
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3006dccd45f1274280a00fa6f404e5c
+      internalID: 1709527669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_11
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2537
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2471c900c73f41bc3cc65bb78d957
+      internalID: -1602245698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_12
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2534
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed38b04abf2f8409edc01170f14992
+      internalID: 1229015698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_13
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2517
+        width: 97
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c81587ce0b8f44eab6af7d00dbc2e7
+      internalID: -1402612864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_14
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2525
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44715c9792bbd14c9ee42b95d6b139a
+      internalID: -1044210713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_15
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2521
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36b0381610a364c8cce7a02f23ed20
+      internalID: -1070940831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2453
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220d8b7a556b66f418cc1453c4dfd107
+      internalID: -2093311498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_17
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2453
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5693a8157cf143ba195976d70440d
+      internalID: 2048440542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_18
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2453
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c9d0f243378d4d9b8bb262f6dd33c
+      internalID: -1664874991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_19
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2453
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537ac89377221914caddf4331e670103
+      internalID: 2044209243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_20
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2453
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb321b12a8bcbfd4caaef375fa8196a1
+      internalID: 174862746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2261
+        width: 99
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c531f6c508ef904facce5410c4e5633
+      internalID: -400377573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2283
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced62c365c75394e88471e1b6993415
+      internalID: 579954748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_23
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2395
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883689d9e9aa77438bd8420dba113c4
+      internalID: 1758465829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_24
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2395
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456a387e2e679f4e812306aba0e88f1
+      internalID: 1681797575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_25
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2395
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe2e63584f065498a69dedfedbc6c9
+      internalID: 973249609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_26
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2395
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988691aa6f2293e4eb112c2586e359e9
+      internalID: 191197997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2275
+        width: 152
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6158eeca6c19b8249a3af83a5b378d09
+      internalID: -427323608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_28
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1940
+        width: 295
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff4654d46b700947931771fbb0bb23f
+      internalID: 459703972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1939
+        width: 297
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa3cc61dc43f2468625cc77cf3a71a
+      internalID: 1500049968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1940
+        width: 245
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53206e623a7417642b319f7b9be54c11
+      internalID: -658983359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1939
+        width: 147
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c424b7e02817e4fbdf3bb5fb782d98
+      internalID: -728424686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_32
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1945
+        width: 244
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979f46789ef95a498a2ca00279ffd0c
+      internalID: -715340879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_33
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1939
+        width: 230
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e7608e74239f84490ecf88328132c0
+      internalID: -151901134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_34
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1964
+        width: 143
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195da3af85d1f1749bfdbdfe7d6e5dd3
+      internalID: -1010157745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_35
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1939
+        width: 257
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca70e5b392ad5648b1a1a3dd484587b
+      internalID: -2022666524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1609
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3fb7a6c02b334591ca51fe68354c2
+      internalID: 1534508864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1496
+        width: 227
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21263f5b132a78f44bf4482dc13a1ea4
+      internalID: 2131459251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1642
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa1575ecc747b4f834fb41029cd9b0
+      internalID: -816874261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_39
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1496
+        width: 204
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f78d8662169724fbca3628e61c31ea
+      internalID: 1636258023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1496
+        width: 189
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b2a69076e658d49a085335e9c18f53
+      internalID: -1391438682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_41
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1495
+        width: 294
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd10fb230e39043afc26f3291918bd
+      internalID: -855776054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_42
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1526
+        width: 134
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4424b76bf5bf64b98d00c46f39a946
+      internalID: 1235942654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_43
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1496
+        width: 241
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d194b3d372a045901f3d0eb291795
+      internalID: 1861405275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_44
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1496
+        width: 211
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dab3c5780b1274391786d9c02d3bd4
+      internalID: 995232845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1262
+        width: 172
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36097a42bf29784ab389ef8215241ea
+      internalID: -789624231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1262
+        width: 171
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60e1d64a62398458c550cdacd0a40c
+      internalID: 1836581138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_47
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1262
+        width: 171
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654f7c52438dc84e9b6c560e37aead1
+      internalID: 974171564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_48
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1217
+        width: 221
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda11c8b6245544bb34888186d86f02
+      internalID: -143164030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_49
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1133
+        width: 248
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee7efdf7850694196d3d6b21a4de3f
+      internalID: 1281005619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_50
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1268
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8644af18597926e4c99fdab15f3d7cf4
+      internalID: 1078001044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_51
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1213
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5efaf77c42f54cbcf327aea4a55f0
+      internalID: -1953550970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_52
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1221
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260808439f4178747925ba6188c5a1b9
+      internalID: -1614859272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_53
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1209
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7eedd9fdb868e469668d1515e6649c
+      internalID: 537079740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_54
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1132
+        width: 190
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d444b8f4b2124b825df344565d8ef
+      internalID: -736589487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_55
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1145
+        width: 146
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296491d78dc79684693f299e1b3f404a
+      internalID: -2138297507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_56
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1142
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99925c0421f6a334cbd3ea7808c09865
+      internalID: 2052201579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_57
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1101
+        width: 53
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb96925ab7c7ed498bf5ec695569b0d
+      internalID: -1078145502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_58
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1208
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158af6220223e24ebb42ef82eca62c5
+      internalID: -1386319667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1132
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf05af72372b69c43b0421fc1fc11e56
+      internalID: -662286735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_60
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1203
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884166d98b0559546819f18796679126
+      internalID: -1180241417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_61
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1132
+        width: 180
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ffc210b133fe46836ce0609a11a7d
+      internalID: 1581419346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1126
+        width: 158
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31127f44b314aa949a28e9d6b6e0ee9a
+      internalID: -1426649830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1197
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2acfc419233a40ab8c6da6e21f83b
+      internalID: -761702682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 741
+        width: 261
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446acc8393f8d744085fe18ec30f1113
+      internalID: -636055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 748
+        width: 263
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b50aa64d6b0048b0e1acf007d3c65
+      internalID: 1977139286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_66
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 757
+        width: 292
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4903603889750a542a41e6cbb6a23e10
+      internalID: 2066740765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_67
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 765
+        width: 292
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a63aa5c4c6214d84af6674b59b668
+      internalID: -534496636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_68
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 774
+        width: 292
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016cdc73b2091594dbd206fe9193b005
+      internalID: -2096175485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_69
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 980
+        width: 163
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d4ec547732b843a408bc762ffdebf
+      internalID: -61656620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_70
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 979
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b1566beb67cfd46b09a1997b9d8010
+      internalID: 2197285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_71
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 880
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b2379fe12427443bc7df9fb7fcebd4
+      internalID: 1738749704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_72
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 855
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0028f2fa8742a084d95bd6bb2a96a5bc
+      internalID: -2118551837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_73
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 865
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e80a0986217334b84b409da6d33224
+      internalID: -1278382926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_74
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 848
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e177b209b572d3e4ebe34ef7616d23ff
+      internalID: 1697043149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_75
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 795
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a96b3e923c23914b8b5c4dfbb48477f
+      internalID: 532524445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_76
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 799
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a894536f32e8ae44b02afb9c7c6f397
+      internalID: 292136937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 385
+        width: 291
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096753ac89c93141a38a0d46a7c5f4b
+      internalID: -1834089842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 664
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739885e220ec2cf4f96bdf410deef81f
+      internalID: -219901838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_79
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 395
+        width: 291
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ef89fd819737489429a9dde72403f
+      internalID: -1428979137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_80
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 657
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df804d57260424e9253d74c85fd060
+      internalID: 934117917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_81
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 426
+        width: 225
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b6e7a5e8bb864ea5a744e8686c856
+      internalID: -1121102940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_82
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 499
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f424d549c7545b04489b456007b7f4f3
+      internalID: -1038424197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_83
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 416
+        width: 285
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4230fbf40741e4ebcd1b6f5e0fc86e
+      internalID: -444858856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_84
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 423
+        width: 277
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f20e61346053479f4dcd93526f43b
+      internalID: -724771501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_85
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 464
+        width: 221
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b498810f9ad049a58f36412481c80
+      internalID: 201147443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_86
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 492
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d7df695a232845b71d2016dfa86ee
+      internalID: -1188986730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_87
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 9
+        width: 220
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5447cc399a9252419a7dafb0f9e7be7
+      internalID: -239696185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_88
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 180
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f9e152cd7bd4499441cff54412ab1
+      internalID: 761167040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_89
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 9
+        width: 180
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc86011f2f3f864ca0bf48c4c2580e5
+      internalID: 2051864787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_90
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 200
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8613d46025a694eb3eb5f5f8f62231
+      internalID: 947271176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_91
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 196
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71d5ef73b592241ac30672bf6e88cb
+      internalID: 35429554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_92
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 29
+        width: 236
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1172032b6d21cf4fad94b58aafe5c40
+      internalID: 1281474126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_93
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 78
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46f2568ac990f48ab29a30d3efb4ca
+      internalID: 2139536436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_94
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 48
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b362354ebbe8894fba6839eb9cafedb
+      internalID: -1242402874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_95
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 121
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952be7022a0156040be0da72b3066890
+      internalID: -1241469836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 9
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f9b288aa546a4e985f95c0e317641
+      internalID: 2055432867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_97
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 9
+        width: 109
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0881a1c5f1f6e04e937bfddcae8440c
+      internalID: 1755127613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 93
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d55c32121c5140aceda63c7e6685e
+      internalID: -619182239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 9
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714293f5e4812d140aa558867454f97c
+      internalID: -793956022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_100
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 9
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec19c439955934cb650a5181ea0759
+      internalID: 609684376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_101
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 96
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9053b7a6b1c7428b39c919f49b8e4
+      internalID: 366091436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_102
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 83
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0314ea8fd0f34945a65aab7d139439b
+      internalID: 1313503985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 67
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1e61c800b6cd4f8d5fb5ad6c8924b
+      internalID: 233370626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_104
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 72
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e2fb14b8ab9b48863bd3bd2e23047
+      internalID: 1388854562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_105
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 64
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd41e6f2a7c8994987e213e68b3ecb6
+      internalID: -1308691529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_106
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7af862996a3d34eb90b8f215abaa94
+      internalID: 484100742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6705065af98944cb2f3fd1453273b2
+      internalID: 1088666185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_108
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 9
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2688cd60839c1ec419817d482b94afa8
+      internalID: -1621788675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_109
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 38
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750183cfe74bb3347b1998a7334439d8
+      internalID: 1978561885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_110
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 38
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bacd93f98051a43b3f49fd0b0f2e8a
+      internalID: 1866856708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_111
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63923c36a46ef994b8f89f8c1a0f3b37
+      internalID: -1193716478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_112
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 29
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ce1f17b7facb439079f9cf52155e4
+      internalID: -1307856018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_113
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3421f4b07f466f343992e99867dc4748
+      internalID: 521046673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_0: -813243288
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_1: 939204377
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_10: 1709527669
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_100: 609684376
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_101: 366091436
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_102: 1313503985
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_103: 233370626
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_104: 1388854562
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_105: -1308691529
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_106: 484100742
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_107: 1088666185
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_108: -1621788675
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_109: 1978561885
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_11: -1602245698
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_110: 1866856708
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_111: -1193716478
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_112: -1307856018
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_113: 521046673
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_12: 1229015698
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_13: -1402612864
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_14: -1044210713
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_15: -1070940831
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_16: -2093311498
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_17: 2048440542
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_18: -1664874991
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_19: 2044209243
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_2: -1774359133
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_20: 174862746
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_21: -400377573
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_22: 579954748
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_23: 1758465829
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_24: 1681797575
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_25: 973249609
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_26: 191197997
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_27: -427323608
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_28: 459703972
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_29: 1500049968
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_3: 1928052586
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_30: -658983359
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_31: -728424686
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_32: -715340879
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_33: -151901134
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_34: -1010157745
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_35: -2022666524
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_36: 1534508864
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_37: 2131459251
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_38: -816874261
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_39: 1636258023
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_4: -1387926210
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_40: -1391438682
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_41: -855776054
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_42: 1235942654
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_43: 1861405275
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_44: 995232845
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_45: -789624231
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_46: 1836581138
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_47: 974171564
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_48: -143164030
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_49: 1281005619
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_5: -920652721
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_50: 1078001044
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_51: -1953550970
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_52: -1614859272
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_53: 537079740
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_54: -736589487
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_55: -2138297507
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_56: 2052201579
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_57: -1078145502
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_58: -1386319667
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_59: -662286735
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_6: 265899866
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_60: -1180241417
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_61: 1581419346
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_62: -1426649830
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_63: -761702682
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_64: -636055
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_65: 1977139286
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_66: 2066740765
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_67: -534496636
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_68: -2096175485
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_69: -61656620
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_7: 466487589
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_70: 2197285
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_71: 1738749704
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_72: -2118551837
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_73: -1278382926
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_74: 1697043149
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_75: 532524445
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_76: 292136937
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_77: -1834089842
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_78: -219901838
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_79: -1428979137
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_8: -302364722
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_80: 934117917
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_81: -1121102940
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_82: -1038424197
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_83: -444858856
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_84: -724771501
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_85: 201147443
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_86: -1188986730
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_87: -239696185
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_88: 761167040
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_89: 2051864787
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_9: -201773455
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_90: 947271176
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_91: 35429554
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_92: 1281474126
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_93: 2139536436
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_94: -1242402874
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_95: -1241469836
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_96: 2055432867
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_97: 1755127613
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_98: -619182239
+      Browser Games - Marvel_ Avengers Alliance - Heroes - Groot (Guardian)_99: -793956022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
