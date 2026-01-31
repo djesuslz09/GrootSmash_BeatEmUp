@@ -2,17 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Prop_Vida : MonoBehaviour
+public class HealthProp : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int healthAmount = 20;
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        
+        // Comprobamos si es el jugador
+        if (other.CompareTag("Player"))
+        {
+            // Intentamos obtener el script de vida del jugador
+            PlayerHealth playerHealth = other.GetComponent<PlayerHealth>();
+
+            if (playerHealth != null)
+            {
+                playerHealth.AddHealth(healthAmount);
+            }
+
+            // Destruimos el prop tras recogerlo
+            Destroy(gameObject);
+        }
     }
 }
