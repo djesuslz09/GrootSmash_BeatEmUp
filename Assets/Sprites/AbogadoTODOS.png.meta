@@ -1,0 +1,1764 @@
+fileFormatVersion: 2
+guid: 89a571ba3d01fa34ca32164038393455
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AbogadoTODOS_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3597
+        width: 160
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3e2c6c6af9a2047ab76858013cd333
+      internalID: -514985867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3597
+        width: 160
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769bcd6ed96ca744a8ed38eddeb40247
+      internalID: -235727111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 3597
+        width: 137
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553a9ec5da45ca147855721ebe63fcea
+      internalID: 2137491236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3597
+        width: 124
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e439216fc2c8f4db8bcdc741d9e142
+      internalID: -626661818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3597
+        width: 180
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b732772738d6074aa7d771eabd07bab
+      internalID: -1327646478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3341
+        width: 175
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60965d30e4e5d3e4a901a2561dca6172
+      internalID: 1743294979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3341
+        width: 178
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e375d458d6112041bcbd3601374f774
+      internalID: 1374768843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3341
+        width: 154
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4e93113eb8df458877e9cf22ddb3c
+      internalID: 139438363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_8
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 3341
+        width: 145
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2cd5dc02833c429c8817b958c8acf
+      internalID: -1161611391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_9
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3341
+        width: 201
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda565c31538da4e95136661e985070
+      internalID: -1526422651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3085
+        width: 146
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b651e5236a4f458fbd0b0a74efd43
+      internalID: 1324303770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3085
+        width: 148
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e019a7da91e4943a2fdd9b066fede6
+      internalID: -76379301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3085
+        width: 145
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836174ce6db42f14bb659a20c565dfb4
+      internalID: -1021096843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_13
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3085
+        width: 138
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a99d93db0dd78f4d854ef573de9736b
+      internalID: 2043376879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_14
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3085
+        width: 121
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd480091cb0ae3f4c94d4e038a04a5f1
+      internalID: 2139528436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2829
+        width: 122
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db91a1b09eb98d4bad90af697659bc6
+      internalID: -1157223616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2829
+        width: 130
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1b1d621625ca4fb01a30ebc9a3d3c
+      internalID: -1443036367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_17
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2829
+        width: 122
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f681d6e4fec41994486f1065e15df163
+      internalID: -1012134426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2829
+        width: 122
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd9f11e1ba0ff42ab52b9d9f4c4e85
+      internalID: -755927923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_19
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2829
+        width: 121
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b58cec1e27c2794f994cfc1d09b7cc4
+      internalID: -2035476128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2573
+        width: 122
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b6818ec2272c4aa70c4f49e65778d
+      internalID: 623863105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2573
+        width: 122
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b80f298931ee04b834b842e183939b
+      internalID: 282316457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2573
+        width: 139
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b375396d53264a8b3f8d0d739579a
+      internalID: 1629650426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_23
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2573
+        width: 151
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0730491fcf3fb48a85eb37ac40b698
+      internalID: 93216064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2573
+        width: 151
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e36bd8886221b44845a30cf67f4130
+      internalID: 1507895793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2317
+        width: 171
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76170e1f408b7147aee7f3732bfda84
+      internalID: -1561305943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2315
+        width: 174
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b08f3ee1df1b54fbd9b7977f591b5d
+      internalID: -561963974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_27
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2309
+        width: 180
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe24794a79f474fb67ac87845ffd8d
+      internalID: -103299715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_28
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2300
+        width: 159
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458176ed2f7bce54ba34abf2ba2153e8
+      internalID: -2076510790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_29
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2298
+        width: 113
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02307248d9e8efc468a057db02bc7ed2
+      internalID: -1850563277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2039
+        width: 102
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9adfef6a56aa479d9b196fe22aafd
+      internalID: -356715627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2039
+        width: 163
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e549815e967643bacc3724b6bcf5d
+      internalID: -1635926697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_32
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2060
+        width: 184
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148043329097c74499d72c8b2fdf9564
+      internalID: 1055318011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2052
+        width: 183
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce61128e6f882484aafde63aa51f9e9e
+      internalID: -842341806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2043
+        width: 167
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ffbb2a39ae40247bbe272a15d61fd1
+      internalID: -1857047205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1786
+        width: 124
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dd27a7f06861a4aa49ff3de81dc2c4
+      internalID: -337707425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_36
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1784
+        width: 110
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee0011f0c89e22448769be500216634
+      internalID: 54385958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_37
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1797
+        width: 153
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b179a0fe0778394fa2f966d08424d1e
+      internalID: 1337468969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1801
+        width: 178
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba849bd9ffcd602419c58311193b0916
+      internalID: 1169694492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_39
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1795
+        width: 178
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc97482ddbc4941b747124a3bab4dd
+      internalID: 497708378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1531
+        width: 160
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c0faaacfed7084ea7dc0a8ba45867e
+      internalID: 1261811220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1529
+        width: 112
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d56217d382680c4d9b3099874e7bb53
+      internalID: -536895747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1527
+        width: 125
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95250b7730d282b4ba87501da6a7a36c
+      internalID: -448505013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_43
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1529
+        width: 166
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923040bfd00c98a4190d2d0e54bebc73
+      internalID: 1656479696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_44
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1544
+        width: 184
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf6e19ac3c5d8b4c8d30e896e7fbb9b
+      internalID: -2022498057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1283
+        width: 184
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e0769ac8f1f94494857388097f3b0
+      internalID: 1766148226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1274
+        width: 157
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba251b1795f6664459d5e3bde7e6e4a9
+      internalID: -1933822319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_47
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1272
+        width: 108
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc345173e3884a4195a415d374ee3e2
+      internalID: -1244720197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_48
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1274
+        width: 125
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15292df0a36f78644aaea3c3c2418e36
+      internalID: 1107382399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_49
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1291
+        width: 171
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c50a76024e700449e558285e1f814c
+      internalID: 181692391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1032
+        width: 96
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec453222e14b614c9ac69d8d8b49405
+      internalID: -421199694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1032
+        width: 93
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf73ce0bc0d6749a375ba4d0cea78c
+      internalID: 128414660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_52
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1032
+        width: 95
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd4175bb8b5eb4281cd66f440f2d8c
+      internalID: 102522753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_53
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1032
+        width: 97
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f06d1fd236d941bd273ccbd8b25ea
+      internalID: 1954503466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_54
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1032
+        width: 96
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772343bdbd4350443af9e188220aef26
+      internalID: 644781749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 777
+        width: 99
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34948237c0d5e489b7191657a7ac29
+      internalID: 947162857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 777
+        width: 99
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0cc8e40c633544884761e3029aed0
+      internalID: 1702634395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 777
+        width: 102
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c898edeb3d9c0954695c51bf2f103e1c
+      internalID: -259133981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_58
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 777
+        width: 105
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cda4a4b5496294eb738faca2e5d587
+      internalID: 331932347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_59
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 777
+        width: 108
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef62088324e764c8a01db45291123a
+      internalID: -1665099982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 108
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a75582d2988c4ca19868371660952
+      internalID: 839356333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 520
+        width: 110
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887010f576dfbb4ea0a6c4c19f8f62e
+      internalID: 1970119617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_62
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 520
+        width: 111
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d839d4f5981cdcb468786126e1602f8a
+      internalID: 442568432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_63
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 520
+        width: 108
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb8a1c4d26fe544832798bacddfc9d
+      internalID: -493413958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_64
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 520
+        width: 108
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c65b0f389ccc4596d3acf3e9a92bc
+      internalID: -13153217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 265
+        width: 108
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150bcedf283754240b54b5ce95226b7d
+      internalID: -2104168034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 265
+        width: 108
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa5f1a412096b4daeb73cf6c30cfa6
+      internalID: -560825981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_67
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 265
+        width: 105
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25ab50da8112d44b0336ea459cc039
+      internalID: -396730453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_68
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 265
+        width: 105
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a15bc86bb0324bbb14e267ad1ad5d
+      internalID: -75518064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_69
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 265
+        width: 101
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a52b337d519da4a8a635e197f9478a
+      internalID: 930551782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 100
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544cebbd4ad404246a929e573e515310
+      internalID: -673956872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 97
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ffba654989db244af21f21f056de05
+      internalID: 1160227007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_72
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 8
+        width: 96
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a6a9d3ff76e34f9638c17fb45ac27
+      internalID: -1069946839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_73
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 8
+        width: 95
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2de4b3965936af44a8bc03fac13ad10
+      internalID: -530457462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbogadoTODOS_74
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 8
+        width: 94
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1de0c853c46be4abcd6996fba67238
+      internalID: 442855074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AbogadoTODOS_0: -514985867
+      AbogadoTODOS_1: -235727111
+      AbogadoTODOS_10: 1324303770
+      AbogadoTODOS_11: -76379301
+      AbogadoTODOS_12: -1021096843
+      AbogadoTODOS_13: 2043376879
+      AbogadoTODOS_14: 2139528436
+      AbogadoTODOS_15: -1157223616
+      AbogadoTODOS_16: -1443036367
+      AbogadoTODOS_17: -1012134426
+      AbogadoTODOS_18: -755927923
+      AbogadoTODOS_19: -2035476128
+      AbogadoTODOS_2: 2137491236
+      AbogadoTODOS_20: 623863105
+      AbogadoTODOS_21: 282316457
+      AbogadoTODOS_22: 1629650426
+      AbogadoTODOS_23: 93216064
+      AbogadoTODOS_24: 1507895793
+      AbogadoTODOS_25: -1561305943
+      AbogadoTODOS_26: -561963974
+      AbogadoTODOS_27: -103299715
+      AbogadoTODOS_28: -2076510790
+      AbogadoTODOS_29: -1850563277
+      AbogadoTODOS_3: -626661818
+      AbogadoTODOS_30: -356715627
+      AbogadoTODOS_31: -1635926697
+      AbogadoTODOS_32: 1055318011
+      AbogadoTODOS_33: -842341806
+      AbogadoTODOS_34: -1857047205
+      AbogadoTODOS_35: -337707425
+      AbogadoTODOS_36: 54385958
+      AbogadoTODOS_37: 1337468969
+      AbogadoTODOS_38: 1169694492
+      AbogadoTODOS_39: 497708378
+      AbogadoTODOS_4: -1327646478
+      AbogadoTODOS_40: 1261811220
+      AbogadoTODOS_41: -536895747
+      AbogadoTODOS_42: -448505013
+      AbogadoTODOS_43: 1656479696
+      AbogadoTODOS_44: -2022498057
+      AbogadoTODOS_45: 1766148226
+      AbogadoTODOS_46: -1933822319
+      AbogadoTODOS_47: -1244720197
+      AbogadoTODOS_48: 1107382399
+      AbogadoTODOS_49: 181692391
+      AbogadoTODOS_5: 1743294979
+      AbogadoTODOS_50: -421199694
+      AbogadoTODOS_51: 128414660
+      AbogadoTODOS_52: 102522753
+      AbogadoTODOS_53: 1954503466
+      AbogadoTODOS_54: 644781749
+      AbogadoTODOS_55: 947162857
+      AbogadoTODOS_56: 1702634395
+      AbogadoTODOS_57: -259133981
+      AbogadoTODOS_58: 331932347
+      AbogadoTODOS_59: -1665099982
+      AbogadoTODOS_6: 1374768843
+      AbogadoTODOS_60: 839356333
+      AbogadoTODOS_61: 1970119617
+      AbogadoTODOS_62: 442568432
+      AbogadoTODOS_63: -493413958
+      AbogadoTODOS_64: -13153217
+      AbogadoTODOS_65: -2104168034
+      AbogadoTODOS_66: -560825981
+      AbogadoTODOS_67: -396730453
+      AbogadoTODOS_68: -75518064
+      AbogadoTODOS_69: 930551782
+      AbogadoTODOS_7: 139438363
+      AbogadoTODOS_70: -673956872
+      AbogadoTODOS_71: 1160227007
+      AbogadoTODOS_72: -1069946839
+      AbogadoTODOS_73: -530457462
+      AbogadoTODOS_74: 442855074
+      AbogadoTODOS_8: -1161611391
+      AbogadoTODOS_9: -1526422651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
