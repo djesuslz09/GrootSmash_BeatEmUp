@@ -6,11 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< HEAD:Assets/Animations/Player_Attacking_2.anim
-  m_Name: Player_Attacking_2
-========
   m_Name: Kingpin_Idle
->>>>>>>> origin/Kingpin_Corrutinas:Assets/Animations/Kingpin_Idle.anim
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,10 +17,6 @@ AnimationClip:
   m_PositionCurves: []
   m_ScaleCurves: []
   m_FloatCurves: []
-<<<<<<<< HEAD:Assets/Animations/Player_Attacking_2.anim
-  m_PPtrCurves: []
-  m_SampleRate: 60
-========
   m_PPtrCurves:
   - serializedVersion: 2
     curve:
@@ -40,16 +32,11 @@ AnimationClip:
     script: {fileID: 0}
     flags: 2
   m_SampleRate: 5
->>>>>>>> origin/Kingpin_Corrutinas:Assets/Animations/Kingpin_Idle.anim
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-<<<<<<<< HEAD:Assets/Animations/Player_Attacking_2.anim
-    genericBindings: []
-    pptrCurveMapping: []
-========
     genericBindings:
     - serializedVersion: 2
       path: 0
@@ -64,7 +51,6 @@ AnimationClip:
     - {fileID: -1121160608, guid: 57ff9e17ce719ce4a9a02d973bd0317d, type: 3}
     - {fileID: -1100792852, guid: 57ff9e17ce719ce4a9a02d973bd0317d, type: 3}
     - {fileID: -1121160608, guid: 57ff9e17ce719ce4a9a02d973bd0317d, type: 3}
->>>>>>>> origin/Kingpin_Corrutinas:Assets/Animations/Kingpin_Idle.anim
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
