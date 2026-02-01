@@ -14,7 +14,7 @@ public class StrengthProp : MonoBehaviour
 
             if (playerAttack != null)
             {
-                playerAttack.IncreaseDamage(extraDamage);
+               playerAttack.IncreaseDamage(extraDamage);
             }
 
             Destroy(gameObject);

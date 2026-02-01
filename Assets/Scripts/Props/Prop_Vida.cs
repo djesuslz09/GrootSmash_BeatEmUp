@@ -4,23 +4,21 @@ using UnityEngine;
 
 public class HealthProp : MonoBehaviour
 {
-    public int healthAmount = 20;
+    public int extraHealth = 20; // Cantidad de vida que da
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Comprobamos si es el jugador
         if (other.CompareTag("Player"))
         {
-            // Intentamos obtener el script de vida del jugador
-            PlayerHealth playerHealth = other.GetComponent<PlayerHealth>();
-
-            if (playerHealth != null)
+            // Acceder al script del jugador
+            prueba player = other.GetComponent<prueba>();
+            if (player != null)
             {
-                playerHealth.AddHealth(healthAmount);
+                // Sumamos vida (si quieres un sistema de vida, agrega una variable 'health' en 'prueba')
+                player.IncreaseHealth(extraHealth);
             }
 
-            // Destruimos el prop tras recogerlo
-            Destroy(gameObject);
+            Destroy(gameObject); // El prop desaparece
         }
     }
 }
