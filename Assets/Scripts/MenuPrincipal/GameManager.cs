@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 
-public class GameManager : MonoBehaviour
+public class GameManager1 : MonoBehaviour
 {
     private GameObject gameManager; //Almacena gameManager
     [SerializeField] private AudioMixer audioMixer; //Almacena audioMixer

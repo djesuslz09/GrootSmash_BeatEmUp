@@ -5,6 +5,24 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+
+    //Llamar a la funcion para los props (Defensa y vida)
+    public int health = 100;
+    public int defense = 0;
+
+    public void IncreaseHealth(int amount)
+    {
+        health += amount;
+        Debug.Log("Vida aumentada: " + health);
+    }
+
+    public void IncreaseDefense(int amount)
+    {
+        defense += amount;
+        Debug.Log("Defensa aumentada: " + defense);
+    }
+
+
     [Header("--- Movimiento ---")]
     [SerializeField] private float speedH = 5f;
     [SerializeField] private float speedV = 5f;
@@ -36,6 +54,33 @@ public class PlayerController : MonoBehaviour
         float inputX = Input.GetAxisRaw("Horizontal");
         float inputY = Input.GetAxisRaw("Vertical");
 
+        // 2. Movimiento CON LIMITES
+        Vector3 move = new Vector3(inputX * speedH, inputY * speedV, 0f);
+        Vector3 newPosition = transform.position + move * Time.deltaTime;
+
+        // 🔥 LIMITES Y 🔥
+        newPosition.y = Mathf.Clamp(newPosition.y, -4.3f, -0.8f);
+
+        transform.position = newPosition;
+
+        // 3. Animaciones de movimiento
+        bool isMoving = (inputX != 0 || inputY != 0);
+        animator.SetBool("IsMoving", isMoving);
+
+        // 4. Girar Sprite (Flip)
+        if (inputX > 0)
+            spriteRenderer.flipX = false; // Derecha
+        else if (inputX < 0)
+            spriteRenderer.flipX = true;  // Izquierda
+    }
+
+
+    /*private void ProcesarMovimiento()
+    {
+        // 1. Input
+        float inputX = Input.GetAxisRaw("Horizontal");
+        float inputY = Input.GetAxisRaw("Vertical");
+
         // 2. Movimiento (Usando transform como en tu script original)
         Vector3 move = new Vector3(inputX * speedH, inputY * speedV, 0f);
         transform.position += move * Time.deltaTime;
@@ -49,8 +94,8 @@ public class PlayerController : MonoBehaviour
             spriteRenderer.flipX = false; // Derecha
         else if (inputX < 0)
             spriteRenderer.flipX = true;  // Izquierda
-    }
-    
+    }*/
+
     public void RecibirDaño(float cantidad)
     {
         vidaJugador -= cantidad;

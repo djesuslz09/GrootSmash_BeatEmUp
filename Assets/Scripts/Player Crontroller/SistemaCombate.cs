@@ -3,9 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-
 public class SistemaCombate : MonoBehaviour
-{
+{ 
+    //Llamar a la función para los props (ataque)
+    public int damage = 10;
+
+    public void IncreaseDamage(int amount)
+    {
+        damage += amount;
+        Debug.Log("Daño aumentado: " + damage);
+    }
+
+
+
 
     [Header("--- Componentes ---")]
 

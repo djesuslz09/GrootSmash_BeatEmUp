@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 72f6a7fa571e83049baae87699e0cc78
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_0"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1035
+        width: 139
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a5049463c6d149b5b9021f13edac0
+      internalID: 719965365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_1"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1035
+        width: 135
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f658209cbe3648ba1d8adf4e83c7f
+      internalID: 1753803021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_2"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1035
+        width: 127
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfea8ea0a26ead419b52f7c404192d9
+      internalID: 1189807840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_3"
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1035
+        width: 127
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d45d7e7cfc59c468e7a9d56daef44d
+      internalID: -1034307584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_4"
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1035
+        width: 131
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3c6ae2e8573a74c81c746830b03ce9
+      internalID: 696498517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_5"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 782
+        width: 175
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbcc6efde2a2c542a1b6eb9810f6e33
+      internalID: -495666424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_6"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 782
+        width: 147
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea012d32efd640b4bbc33590561bc088
+      internalID: -1736225038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_7"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 779
+        width: 138
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9c6bed897a2cb48bc44b488cf72d94
+      internalID: -1592943427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_8"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 782
+        width: 135
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ad3abaf40752408e0f8ebf1030fe3
+      internalID: 807821721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_9"
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 779
+        width: 135
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fec9218c7b15e4985d132f764ef010
+      internalID: 2043946272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_10"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 526
+        width: 135
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a303334099f9459eb5b499adbb06e
+      internalID: -144478895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_11"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 523
+        width: 135
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31fcc325a31e944b53da77c6aa182c
+      internalID: 96300029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_12"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 523
+        width: 135
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b9b9ffc9f8b14ebe5773b9aba6769
+      internalID: 1345435212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_13"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 523
+        width: 135
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c40c8f9d9cf2d4691e1f99e99d181c
+      internalID: 1333730485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_14"
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 523
+        width: 135
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15db7191e7d5364cafee3008b54f6aa
+      internalID: 896051260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_15"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 267
+        width: 135
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc3648e178c14143807ad79a4f40ea3
+      internalID: -1175529594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_16"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 267
+        width: 197
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10045c110dccb140a5baa8ff755677c
+      internalID: 748870464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_17"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 267
+        width: 180
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ebb12d6e21034d87b2d30f3f36ff9
+      internalID: -1671243396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_18"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 267
+        width: 180
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2ede2c85d42574db7bc7731328e1b4
+      internalID: 521069377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_19"
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 267
+        width: 180
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d7f83d5017144db47c90a05fbc8ac
+      internalID: -605973971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_20"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 180
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfced491feb575247a8c5332116ede7c
+      internalID: 1061966961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_21"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 11
+        width: 172
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f54e68fa5a9e469575de420cf218e
+      internalID: 789191865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_22"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 11
+        width: 151
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9ce8bd546aa94a8cedf4a9bdc66ca
+      internalID: -1482113683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_23"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 11
+        width: 144
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208609d0d73b4d479a448c0ae704d62
+      internalID: 591734473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-attack_24"
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 11
+        width: 143
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bf6002f3e0d394bb9a73cd2521a655
+      internalID: 817257067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "le\xF1ador-attack_0": 719965365
+      "le\xF1ador-attack_1": 1753803021
+      "le\xF1ador-attack_10": -144478895
+      "le\xF1ador-attack_11": 96300029
+      "le\xF1ador-attack_12": 1345435212
+      "le\xF1ador-attack_13": 1333730485
+      "le\xF1ador-attack_14": 896051260
+      "le\xF1ador-attack_15": -1175529594
+      "le\xF1ador-attack_16": 748870464
+      "le\xF1ador-attack_17": -1671243396
+      "le\xF1ador-attack_18": 521069377
+      "le\xF1ador-attack_19": -605973971
+      "le\xF1ador-attack_2": 1189807840
+      "le\xF1ador-attack_20": 1061966961
+      "le\xF1ador-attack_21": 789191865
+      "le\xF1ador-attack_22": -1482113683
+      "le\xF1ador-attack_23": 591734473
+      "le\xF1ador-attack_24": 817257067
+      "le\xF1ador-attack_3": -1034307584
+      "le\xF1ador-attack_4": 696498517
+      "le\xF1ador-attack_5": -495666424
+      "le\xF1ador-attack_6": -1736225038
+      "le\xF1ador-attack_7": -1592943427
+      "le\xF1ador-attack_8": 807821721
+      "le\xF1ador-attack_9": 2043946272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,7 +11,7 @@ public class HealthProp : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // Acceder al script del jugador
-            prueba player = other.GetComponent<prueba>();
+            PlayerController player = other.GetComponent<PlayerController>();
             if (player != null)
             {
                 // Sumamos vida (si quieres un sistema de vida, agrega una variable 'health' en 'prueba')

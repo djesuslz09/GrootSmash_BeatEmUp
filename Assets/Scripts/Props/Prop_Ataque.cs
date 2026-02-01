@@ -10,7 +10,7 @@ public class StrengthProp : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            PlayerAttack playerAttack = other.GetComponent<PlayerAttack>();
+            SistemaCombate playerAttack = other.GetComponent<SistemaCombate>();
 
             if (playerAttack != null)
             {

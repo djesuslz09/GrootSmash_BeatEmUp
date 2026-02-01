@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 9751a298cbe0ae04bbbae9bc34cab964
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_0"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1035
+        width: 115
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728380b0f86a7bc4aa516e482abbf5e1
+      internalID: 589211604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_1"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1035
+        width: 120
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ece719a091d4d4895f7910b05531d8
+      internalID: -1147547732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_2"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1034
+        width: 116
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf0b750718f06542a991ae1f83ba3aa
+      internalID: 764001871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_3"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1034
+        width: 91
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034c0e0dc75727043a84d5c700a64c32
+      internalID: 1611832499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_4"
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1034
+        width: 64
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a774fb1c59eb9094682b2efc017e6bed
+      internalID: -1493320503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_5"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 778
+        width: 68
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a6a810e9a4914fba3aa1e234afb53
+      internalID: 1742069397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_6"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 778
+        width: 96
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0bc5f599256de4c92dff4cac40eb99
+      internalID: -1988629609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_7"
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 778
+        width: 120
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f1360a67f832438402dc0b190ace9
+      internalID: 782671140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_8"
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 778
+        width: 115
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7213db9ad587be4d93cb6791aa9e5b0
+      internalID: -1437243536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_9"
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 778
+        width: 87
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6a595e43580840a13aad7781631e3
+      internalID: -1967347706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_10"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 522
+        width: 60
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c2e629da31f3c4699e520dc94465e1
+      internalID: -124045269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_11"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 522
+        width: 76
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88476ba09e0c6764db135b234e3940d8
+      internalID: 1763070868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_12"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 523
+        width: 103
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcbe146122ed0842ba8c004d96b7123
+      internalID: 945464633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_13"
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 523
+        width: 119
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da9a63628d40304c943c96a12c1366a
+      internalID: -745869231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_14"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 522
+        width: 116
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c643ccef59ab243aa3db4b4d023bae
+      internalID: -2006891097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_15"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 266
+        width: 92
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff1f07b7c2c9a43ab0d5e03a82cabf
+      internalID: -1977232335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_16"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 266
+        width: 64
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d298f1858e30429546dd48a65e277
+      internalID: 87091301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_17"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 266
+        width: 68
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441dc9efb7a24924686bb087a3907979
+      internalID: -436610117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_18"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 266
+        width: 96
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7017c444839de23479f8cc8f68ea6453
+      internalID: -2129683754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_19"
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 266
+        width: 120
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce11b55e250954182c98e4a0eef1f1
+      internalID: -827087268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_20"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 10
+        width: 114
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3b796058f6e84588142c16e7ce9cc
+      internalID: -1815845709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_21"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 10
+        width: 86
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1fe17dd5a4b54f9261ad663934c01
+      internalID: 1770024573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_22"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 10
+        width: 59
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58cab1b6e0c3547998dfc080f5d394
+      internalID: -416066576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_23"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 11
+        width: 94
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2149996a365f6b44391c2516f78e50c4
+      internalID: 853706705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le\xF1ador-walk_24"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 11
+        width: 115
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6bcc310c8331a4980444bb4845edd7
+      internalID: 215003555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "le\xF1ador-walk_0": 589211604
+      "le\xF1ador-walk_1": -1147547732
+      "le\xF1ador-walk_10": -124045269
+      "le\xF1ador-walk_11": 1763070868
+      "le\xF1ador-walk_12": 945464633
+      "le\xF1ador-walk_13": -745869231
+      "le\xF1ador-walk_14": -2006891097
+      "le\xF1ador-walk_15": -1977232335
+      "le\xF1ador-walk_16": 87091301
+      "le\xF1ador-walk_17": -436610117
+      "le\xF1ador-walk_18": -2129683754
+      "le\xF1ador-walk_19": -827087268
+      "le\xF1ador-walk_2": 764001871
+      "le\xF1ador-walk_20": -1815845709
+      "le\xF1ador-walk_21": 1770024573
+      "le\xF1ador-walk_22": -416066576
+      "le\xF1ador-walk_23": 853706705
+      "le\xF1ador-walk_24": 215003555
+      "le\xF1ador-walk_3": 1611832499
+      "le\xF1ador-walk_4": -1493320503
+      "le\xF1ador-walk_5": 1742069397
+      "le\xF1ador-walk_6": -1988629609
+      "le\xF1ador-walk_7": 782671140
+      "le\xF1ador-walk_8": -1437243536
+      "le\xF1ador-walk_9": -1967347706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
