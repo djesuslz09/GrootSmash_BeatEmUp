@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BossController : MonoBehaviour
 {
-    [Header("PosiciÃ³n final")]
+    [Header("Posición final")]
     public Transform finalPosition; // Arrastra el punto final del mapa
 
     [Header("Movimiento")]
@@ -37,7 +37,7 @@ public class BossController : MonoBehaviour
     {
         if (animator != null && hasReachedEnd)
         {
-            animator.SetTrigger("Enfado"); // Activa la animaciÃ³n de enfado
+            animator.SetTrigger("Enfado"); // Activa la animación de enfado
         }
     }
 }

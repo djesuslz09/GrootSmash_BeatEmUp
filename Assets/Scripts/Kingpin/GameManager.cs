@@ -1,12 +1,12 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-public class GameManager : MonoBehaviour
+public class GameManager2 : MonoBehaviour
 {
-    public static GameManager Instance;
+    public static GameManager2 Instance;
 
     [Header("Boss")]
-    public BossController boss; // Arrastra tu Boss aquÃ­
+    public BossController boss; // Arrastra tu Boss aquí
 
     [Header("Evento enemigo muerto")]
     public UnityEvent onEnemyDeath = new UnityEvent();
@@ -33,5 +33,3 @@ public class GameManager : MonoBehaviour
         }
     }
 }
-
-
