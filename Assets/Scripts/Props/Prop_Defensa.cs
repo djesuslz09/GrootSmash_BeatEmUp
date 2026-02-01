@@ -2,17 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Prop_Defensa : MonoBehaviour
+public class DefenseProp : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int extraDefense = 5; // Cantidad de defensa extra
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        
+        if (other.CompareTag("Player"))
+        {
+            prueba player = other.GetComponent<prueba>();
+            if (player != null)
+            {
+                player.IncreaseDefense(extraDefense);
+            }
+
+            Destroy(gameObject);
+        }
     }
 }
