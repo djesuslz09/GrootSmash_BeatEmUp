@@ -3694,12 +3694,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1168516233}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 863c4a3de2df1c749bd66343373645fc, type: 3}
+  m_Script: {fileID: 11500000, guid: 0374f9a90c61d9247a66425ad31c5cfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 100
   jugador: {fileID: 1282972222}
-  velocidad: 1
+  velocidad: 2
   rangoDeteccion: 5
   rangoAtaque: 1
   damageAtaque: 10
@@ -4162,7 +4162,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1282972219}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6b85a8d6b901c34d898ba611f4dae09, type: 3}
+  m_Script: {fileID: 11500000, guid: 851a11a9ea998c7429314ad8d7785908, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speedH: 5
@@ -4249,31 +4249,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1282972219}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 969f2379ef90b3a419f6e901f2d6df1c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 1282972223}
-  corazones:
-  - {fileID: 859561264}
-  - {fileID: 1533003868}
-  - {fileID: 524410823}
-  corazonLleno: {fileID: 21300000, guid: ce8ed02df86d55e439590409ca95964a, type: 3}
-  corazonVacio: {fileID: 21300000, guid: d81bc52b803cc4e4186ded5c1dc435ad, type: 3}
---- !u!114 &1282972228
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1282972219}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 626ca5e0bcf27cc44a3edba532437e21, type: 3}
+  m_Script: {fileID: 11500000, guid: c35603b9f7c9f2445a703dd72671b4f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   capaEnemigos:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 0
   puntoGolpeJ: {fileID: 1282972222}
   radioGolpeJ: 1
   damageGolpeJ: 10
@@ -4283,6 +4264,25 @@ MonoBehaviour:
   puntoGolpeL: {fileID: 1282972222}
   radioGolpeL: 3
   damageGolpeL: 30
+--- !u!114 &1282972228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1282972219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7663ce74321c7194bb6411ab2189de79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1282972223}
+  corazones:
+  - {fileID: 859561264}
+  - {fileID: 1533003868}
+  - {fileID: 524410823}
+  corazonLleno: {fileID: 21300000, guid: ce8ed02df86d55e439590409ca95964a, type: 3}
+  corazonVacio: {fileID: 21300000, guid: d81bc52b803cc4e4186ded5c1dc435ad, type: 3}
 --- !u!1 &1370575648
 GameObject:
   m_ObjectHideFlags: 0

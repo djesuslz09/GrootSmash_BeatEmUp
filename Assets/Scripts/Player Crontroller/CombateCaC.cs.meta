@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Scripts/MenuPrincipal/MusicLibrary.cs.meta
-guid: 1d8aff27fba3d7d4a97f1eb1d746df0f
-========
-guid: ed36339d6f4a54b48a5579a975332b7e
->>>>>>>> ATAQUES_GROOT_DAVID:Assets/Scripts/Player Crontroller/CombateCaC.cs.meta
+guid: ba41220f590539c4a88c16cd702ad3ce
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
