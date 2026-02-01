@@ -6,6 +6,16 @@ using UnityEngine.SceneManagement;
 
 public class SistemaCombate : MonoBehaviour
 {
+    //llamar a la funcion de props(ataque)
+    public int damage = 10;
+
+    public void IncreaseDamage(int amount)
+    {
+        damage += amount;
+        Debug.Log(" Daño Aumentado: " + damage);
+    }
+
+
 
     [Header("--- Componentes ---")]
 

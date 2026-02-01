@@ -36,4 +36,16 @@ public class EnemyController : MonoBehaviour
             animator.SetTrigger("Attack");
         }
     }
+
+    void Die()
+    {
+        if (GameManager2.Instance != null)
+        {
+            GameManager2.Instance.NotifyEnemyDeath();
+        }
+        Destroy(gameObject);
+    }
 }
+
+
+

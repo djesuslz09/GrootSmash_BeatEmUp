@@ -5,6 +5,27 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+    // llamar a la función para los props ( defensa y vida
+    public int health = 100;
+    public int defense = 0;
+
+
+    public void IncreaseHealth(int amount)
+    {
+        health += amount;
+        Debug.Log("Vida aumentada: " + health);
+    }
+
+    public void IncreaseDefense(int amount)
+    {
+        defense += amount; 
+        Debug.Log("Defensa aumentada: " +  defense);
+    }
+
+
+
+
+
     [Header("--- Movimiento ---")]
     [SerializeField] private float speedH = 5f;
     [SerializeField] private float speedV = 5f;

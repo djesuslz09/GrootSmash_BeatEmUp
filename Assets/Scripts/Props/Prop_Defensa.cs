@@ -10,7 +10,7 @@ public class DefenseProp : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            prueba player = other.GetComponent<prueba>();
+            PlayerController player = other.GetComponent<PlayerController>();
             if (player != null)
             {
                 player.IncreaseDefense(extraDefense);
