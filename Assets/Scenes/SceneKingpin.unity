@@ -442,6 +442,7 @@ GameObject:
   - component: {fileID: 1168516234}
   - component: {fileID: 1168516238}
   - component: {fileID: 1168516237}
+  - component: {fileID: 1168516239}
   m_Layer: 0
   m_Name: Kingpin
   m_TagString: Untagged
@@ -599,6 +600,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 1.14
+--- !u!114 &1168516239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168516233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87825c5aca0c12840a3203634b817b38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1168516234}
+  idleStateName: BossIdle
+  angryStateName: BossAngry
+  totalEnemies: 5
 --- !u!1 &1282972219
 GameObject:
   m_ObjectHideFlags: 0
@@ -613,6 +630,7 @@ GameObject:
   - component: {fileID: 1282972225}
   - component: {fileID: 1282972224}
   - component: {fileID: 1282972226}
+  - component: {fileID: 1282972227}
   m_Layer: 0
   m_Name: Groot
   m_TagString: Untagged
@@ -788,6 +806,22 @@ MonoBehaviour:
   animator: {fileID: 1282972220}
   spriteRenderer: {fileID: 1282972221}
   mainCamera: {fileID: 0}
+--- !u!114 &1282972227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1282972219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 034c596088f284a40a625e5d4d5b4b39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  voiceLine: {fileID: 8300000, guid: b9c678dfc9eb57e448a4e8684f04f9d2, type: 3}
+  voiceVolume: 0.02
+  ambienceClip: {fileID: 8300000, guid: 6bc35fa3aadffe74caca52e99c319cf5, type: 3}
+  ambienceVolume: 0.002
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
