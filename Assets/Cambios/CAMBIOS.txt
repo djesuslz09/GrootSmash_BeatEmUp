@@ -2,3 +2,4 @@ Agrego script alicia a continuacion
 Agrego Todo lo que se hizo en la rama de DAVID
 A continuacion agrego script de karla con los audios y restauro scripts que por alguna razon me los borro
 a continuacion voy meter la rama de karla.
+A continuacion merge con rama de Dagmar con los Sprites
