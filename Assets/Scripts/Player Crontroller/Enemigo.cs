@@ -54,12 +54,12 @@ public class Enemigo : MonoBehaviour
             {
                 // PERSEGUIR: Si lo veo pero está lejos, me muevo hacia él
                 transform.position = Vector2.MoveTowards(transform.position, jugador.position, velocidad * Time.deltaTime);
-                animator.SetBool("Caminando", true); // Asegúrate de tener este Bool en tu Animator
+                //animator.SetBool("Caminando", true); // Asegúrate de tener este Bool en tu Animator
             }
             else
             {
                 // ATACAR: Estoy en rango de golpe
-                animator.SetBool("Caminando", false);
+                //animator.SetBool("Caminando", false);
                 
                 if (Time.time >= cronometroAtaque)
                 {
@@ -71,7 +71,7 @@ public class Enemigo : MonoBehaviour
         else
         {
             // IDLE: Jugador lejos
-            animator.SetBool("Caminando", false);
+            //animator.SetBool("Caminando", false);
         }
     }
 
@@ -116,12 +116,31 @@ public class Enemigo : MonoBehaviour
         estaMuerto = true;
         animator.SetTrigger("Muerte");
         GetComponent<Collider2D>().enabled = false; // Desactiva colisiones para no bloquear
-        // Avisa al GameManager2 de que este enemigo ha muerto
-    if (GameManager2.Instance != null)
-            GameManager2.Instance.NotifyEnemyDeath();
-        this.enabled = false; // Desactiva este script
-    }
 
+        // Avisa al GameManager2 de que este enemigo ha muerto
+        if (GameManager2.Instance != null)
+            GameManager2.Instance.NotifyEnemyDeath();
+            this.enabled = false; // Desactiva este script
+            // Inicia el fade a rojo
+    StartCoroutine(OscurecerYDestruir());
+}
+
+private IEnumerator OscurecerYDestruir()
+{
+    float duracion = 0.4f;
+    float tiempo = 0f;
+    Color colorInicial = spriteRenderer.color;
+    Color colorFinal = Color.red;
+    
+    while (tiempo < duracion)
+    {
+        tiempo += Time.deltaTime;
+        spriteRenderer.color = Color.Lerp(colorInicial, colorFinal, tiempo / duracion);
+        yield return null;
+    }
+    
+    Destroy(gameObject,0.2f);
+}
     // Dibujar los rangos en el editor para verlos
     private void OnDrawGizmosSelected()
     {

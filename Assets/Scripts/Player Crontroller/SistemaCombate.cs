@@ -89,6 +89,9 @@ public class SistemaCombate : MonoBehaviour
         {
             Collider2D[] objetos = Physics2D.OverlapCircleAll(puntoGolpe.position, radio, capaEnemigos);
 
+            // Línea temporal de debug
+            Debug.Log("Ataque: " + triggerAnimacion + " | Objetos detectados: " + objetos.Length + " | Punto: " + puntoGolpe.position + " | Radio: " + radio);
+
             foreach (Collider2D colisionador in objetos)
             {
                 // Verificamos si tiene el script Enemigo antes de llamar

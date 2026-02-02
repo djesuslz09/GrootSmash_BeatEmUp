@@ -6,7 +6,7 @@ public class GameManager2 : MonoBehaviour
     public static GameManager2 Instance;
 
     [Header("Boss")]
-    public BossController boss; // Arrastra tu Boss aquí
+    public BossController boss; // Arrastra tu Boss aquï¿½
 
     [Header("Evento enemigo muerto")]
     public UnityEvent onEnemyDeath = new UnityEvent();
@@ -29,7 +29,16 @@ public class GameManager2 : MonoBehaviour
         onEnemyDeath.Invoke();
         if (boss != null)
         {
-            boss.TriggerAngerAnimation();
+            BossAngryController bossScript = boss.GetComponent<BossAngryController>();
+            if (bossScript != null)
+            {
+            bossScript.OnEnemyKilled();
+            }
         }
+        /*onEnemyDeath.Invoke();
+        if (boss != null)
+        {
+            boss.TriggerAngerAnimation();
+        }*/
     }
 }
