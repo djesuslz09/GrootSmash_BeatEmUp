@@ -60,6 +60,7 @@ public class PlayerController : MonoBehaviour
 
         // 🔥 LIMITES Y 🔥
         newPosition.y = Mathf.Clamp(newPosition.y, -4.3f, -0.8f);
+        newPosition.x = Mathf.Clamp(newPosition.x, -8.26f, 45.19f);
 
         transform.position = newPosition;
 
@@ -106,15 +107,16 @@ public class PlayerController : MonoBehaviour
         if (vidaJugador <= 0)
         {
             MuerteJugador();
+            animator.SetTrigger("Muerte");
         }
     }
     private void MuerteJugador()
     {
-        animator.SetTrigger("Muerte");
+
         this.enabled = false; // Desactiva movimiento
         
         // Espera 2 segundos y reinicia la escena
-        Invoke("ReiniciarNivel", 2f);
+        Invoke("ReiniciarNivel", 3f);
     }
     private void ReiniciarNivel()
     {

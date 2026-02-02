@@ -60,6 +60,7 @@ public class SistemaCombate : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.J))
         {
             EjecutarAtaque("Attack", puntoGolpeJ, radioGolpeJ, damageGolpeJ);
+            SoundManager.Instance.PlaySound3D("Ataque_Groot1", transform.position);
         }
 
         // Ataque K (Asegúrate de tener triggers en el Animator o usa el mismo "Attack")
@@ -81,7 +82,6 @@ public class SistemaCombate : MonoBehaviour
         // Reseteamos el trigger por si el jugador spamea el botón
         animator.ResetTrigger(triggerAnimacion); 
         animator.SetTrigger(triggerAnimacion);
-
         // 2. Detección de daño
         // Nota: Idealmente el daño se hace en un "Animation Event", pero para mantener
         // tu lógica simple, lo haremos aquí al pulsar la tecla.

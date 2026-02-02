@@ -70,6 +70,24 @@ public class CharacterWithAmbience : MonoBehaviour
 
         }
     }
+    public void PauseAudio()
+    {
+        if (ambienceSource.isPlaying)
+            ambienceSource.Pause();
+
+        if (voiceSource.isPlaying)
+            voiceSource.Pause();
+    }
+
+    public void ResumeAudio()
+    {
+        if (ambienceSource != null)
+            ambienceSource.UnPause();
+
+        if (voiceSource != null)
+            voiceSource.UnPause();
+    }
+
 }
 
 

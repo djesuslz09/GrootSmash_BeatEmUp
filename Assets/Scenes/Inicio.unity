@@ -3864,7 +3864,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f515824eaffa324eb8f4301fba9cf5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundEffects: []
+  soundEffects:
+  - groupID: Ataque_Groot1
+    clips:
+    - {fileID: 8300000, guid: eb29b6fd887c2f848a0d255be01825cd, type: 3}
 --- !u!114 &1903572686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3893,7 +3896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tracks:
   - trackName: MainMenu
-    clip: {fileID: 8300000, guid: e6182a7e254a2714095a5f475dff6bd3, type: 3}
+    clip: {fileID: 8300000, guid: 6bc35fa3aadffe74caca52e99c319cf5, type: 3}
   - trackName: Game
     clip: {fileID: 8300000, guid: e6182a7e254a2714095a5f475dff6bd3, type: 3}
 --- !u!4 &1903572688

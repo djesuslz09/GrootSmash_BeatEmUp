@@ -7,6 +7,8 @@ using UnityEngine.SceneManagement;
 public class MenuPausa : MonoBehaviour
 {
     public static bool GameIsPaused = false;
+    public CharacterWithAmbience characterAudio;
+
 
     public GameObject pauseMenuUI;
 
@@ -14,7 +16,7 @@ public class MenuPausa : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape)) //Pulsar Escape para abrir el menú
+        if (Input.GetKeyDown(KeyCode.Escape)) //Pulsar Escape para abrir el menï¿½
         {
             if (GameIsPaused) 
             {
@@ -33,6 +35,8 @@ public class MenuPausa : MonoBehaviour
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f; //Continua el juego
         GameIsPaused = false;
+        // Reanudar mÃºsica 
+        if (characterAudio != null) characterAudio.ResumeAudio();
     }
 
     void Pause()
@@ -42,6 +46,8 @@ public class MenuPausa : MonoBehaviour
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f; //Pausa el juego
         GameIsPaused = true;
+        // Pausar mÃºsica 
+        if (characterAudio != null) characterAudio.PauseAudio();
     }
 
     public void LoadMenu()
@@ -50,7 +56,7 @@ public class MenuPausa : MonoBehaviour
         Debug.Log("Cargando menu");
     }
 
-    public void QuitGame() //Para salir del juego, no lo he puesto en el menú pero por si acaso
+    public void QuitGame() //Para salir del juego, no lo he puesto en el menï¿½ pero por si acaso
     {
         Debug.Log("Cerrar el juego");
     }
