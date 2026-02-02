@@ -116,6 +116,9 @@ public class Enemigo : MonoBehaviour
         estaMuerto = true;
         animator.SetTrigger("Muerte");
         GetComponent<Collider2D>().enabled = false; // Desactiva colisiones para no bloquear
+        // Avisa al GameManager2 de que este enemigo ha muerto
+    if (GameManager2.Instance != null)
+            GameManager2.Instance.NotifyEnemyDeath();
         this.enabled = false; // Desactiva este script
     }
 

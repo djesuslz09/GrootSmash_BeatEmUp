@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2365219516029770463}
   - component: {fileID: 8992481551731254744}
   - component: {fileID: 846877676226004231}
-  - component: {fileID: -6364995297521602944}
+  - component: {fileID: -2473999784623697809}
   m_Layer: 0
   m_Name: "le\xF1ador"
   m_TagString: Untagged
@@ -126,7 +126,7 @@ MonoBehaviour:
   rangoAtaque: 1
   damageAtaque: 10
   tiempoEntreAtaques: 2
---- !u!114 &-6364995297521602944
+--- !u!114 &-2473999784623697809
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
