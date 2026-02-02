@@ -8,7 +8,7 @@ public class Enemigo : MonoBehaviour
     [SerializeField] private float vida = 100f;
     
     [Header("--- IA Combate ---")]
-    [SerializeField] private Transform jugador;       // Arrastra aquí a tu Player
+    private Transform jugador;       // Arrastra aquí a tu Player
     [SerializeField] private float velocidad = 2f;
     [SerializeField] private float rangoDeteccion = 5f; // Distancia para empezar a seguirte
     [SerializeField] private float rangoAtaque = 1f;    // Distancia para pegar

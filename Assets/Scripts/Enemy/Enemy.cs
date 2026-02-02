@@ -13,6 +13,7 @@ public class EnemyController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
+        target = GameObject.FindWithTag("Player").transform;  // Busca automáticamente
     }
 
     void Update()
