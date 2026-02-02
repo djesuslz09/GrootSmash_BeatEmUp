@@ -1437,7 +1437,7 @@ Transform:
   m_GameObject: {fileID: 359091645}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.82, y: -2.5878, z: -10}
+  m_LocalPosition: {x: -5.6311, y: -2.2641, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3847,8 +3847,8 @@ Transform:
   m_GameObject: {fileID: 1168516233}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.99990815, z: -0, w: -0.013556649}
-  m_LocalPosition: {x: 41.31, y: -1.82, z: -0.93}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 42.59, y: -2.24, z: -0.96}
+  m_LocalScale: {x: 1.2144, y: 1.177, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1696047077}
@@ -4222,6 +4222,7 @@ GameObject:
   - component: {fileID: 1282972223}
   - component: {fileID: 1282972227}
   - component: {fileID: 1282972228}
+  - component: {fileID: 1282972229}
   m_Layer: 0
   m_Name: Groot
   m_TagString: Untagged
@@ -4311,8 +4312,8 @@ Transform:
   m_GameObject: {fileID: 1282972219}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.82, y: -2.5878, z: 0}
-  m_LocalScale: {x: 0.5342989, y: 0.5342989, z: 0.5342989}
+  m_LocalPosition: {x: -5.6311, y: -2.2641, z: 0}
+  m_LocalScale: {x: 0.7028702, y: 0.723601, z: 0.5342989}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -4450,6 +4451,22 @@ MonoBehaviour:
   - {fileID: 524410823}
   corazonLleno: {fileID: 21300000, guid: ce8ed02df86d55e439590409ca95964a, type: 3}
   corazonVacio: {fileID: 21300000, guid: d81bc52b803cc4e4186ded5c1dc435ad, type: 3}
+--- !u!114 &1282972229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1282972219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 034c596088f284a40a625e5d4d5b4b39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  voiceLine: {fileID: 8300000, guid: eb29b6fd887c2f848a0d255be01825cd, type: 3}
+  voiceVolume: 0.3
+  ambienceClip: {fileID: 8300000, guid: 7d41beb075d1c264da3f6d1536b2180f, type: 3}
+  ambienceVolume: 0.02
 --- !u!1 &1370575648
 GameObject:
   m_ObjectHideFlags: 0
@@ -5305,8 +5322,8 @@ Transform:
   m_GameObject: {fileID: 1696047076}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.99990815, z: -0, w: -0.013556649}
-  m_LocalPosition: {x: 0.11483919, y: -1.1800001, z: -0.17695169}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.03, y: -0.79864067, z: 0.37}
+  m_LocalScale: {x: 0.8877136, y: 1.6994734, z: 0.99984217}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1168516236}
