@@ -100,7 +100,7 @@ public class SistemaCombate : MonoBehaviour
                 {
                     enemigoScript.TomarDamage(damage);
                 }
-                EnemigoBoss bossScript = colisionador.GetComponent<EnemigoBoss>();
+                BossAngryController bossScript = colisionador.GetComponent<BossAngryController>();
                 if (bossScript != null)
                 {
                     bossScript.TomarDamage(damage);

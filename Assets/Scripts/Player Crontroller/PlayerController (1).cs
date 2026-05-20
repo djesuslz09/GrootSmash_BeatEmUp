@@ -49,31 +49,39 @@ public class PlayerController : MonoBehaviour
     }
 
     private void ProcesarMovimiento()
+{
+    float inputX = Input.GetAxisRaw("Horizontal");
+    float inputY = Input.GetAxisRaw("Vertical");
+
+    Vector3 move = new Vector3(inputX * speedH, inputY * speedV, 0f);
+    Vector3 newPosition = transform.position + move * Time.deltaTime;
+
+    newPosition.y = Mathf.Clamp(newPosition.y, -4.3f, -0.8f);
+    newPosition.x = Mathf.Clamp(newPosition.x, -8.26f, 45.19f);
+
+    // ---- AÑADE ESTO AQUÍ ----
+    GameObject kingpin = GameObject.FindGameObjectWithTag("Enemigo");
+    if (kingpin != null)
     {
-        // 1. Input
-        float inputX = Input.GetAxisRaw("Horizontal");
-        float inputY = Input.GetAxisRaw("Vertical");
-
-        // 2. Movimiento CON LIMITES
-        Vector3 move = new Vector3(inputX * speedH, inputY * speedV, 0f);
-        Vector3 newPosition = transform.position + move * Time.deltaTime;
-
-        // 🔥 LIMITES Y 🔥
-        newPosition.y = Mathf.Clamp(newPosition.y, -4.3f, -0.8f);
-        newPosition.x = Mathf.Clamp(newPosition.x, -8.26f, 45.19f);
-
-        transform.position = newPosition;
-
-        // 3. Animaciones de movimiento
-        bool isMoving = (inputX != 0 || inputY != 0);
-        animator.SetBool("IsMoving", isMoving);
-
-        // 4. Girar Sprite (Flip)
-        if (inputX > 0)
-            spriteRenderer.flipX = false; // Derecha
-        else if (inputX < 0)
-            spriteRenderer.flipX = true;  // Izquierda
+        float distancia = Vector2.Distance(newPosition, kingpin.transform.position);
+        if (distancia < 3f)
+        {
+            Vector3 direccionAlejar = (newPosition - kingpin.transform.position).normalized;
+            newPosition = kingpin.transform.position + direccionAlejar * 3f;
+        }
     }
+    // -------------------------
+
+    transform.position = newPosition;
+
+    bool isMoving = (inputX != 0 || inputY != 0);
+    animator.SetBool("IsMoving", isMoving);
+
+    if (inputX > 0)
+        spriteRenderer.flipX = false;
+    else if (inputX < 0)
+        spriteRenderer.flipX = true;
+}
 
 
     /*private void ProcesarMovimiento()
@@ -124,6 +132,7 @@ public class PlayerController : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     public float ObtenerVida() => vidaJugador;
+    
 }
 
 /*public class prueba : MonoBehaviour

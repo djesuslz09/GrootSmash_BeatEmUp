@@ -1,16 +1,15 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BossAngryController : MonoBehaviour
 {
-    [Header("--- Animaciones ---")]
-    public Animator animator;
-    public string idleStateName = "BossIdle";
-    public string angryStateName = "BossAngry";
+    [Header("--- Vida ---")]
+    [SerializeField] private float vida = 500f;
 
     [Header("--- Detección Jugador ---")]
     private Transform jugador;
-    [SerializeField] private float rangoDeteccion = 5f;
+    [SerializeField] private float rangoDeteccion = 10f;
 
     [Header("--- Proyectiles ---")]
     [SerializeField] private GameObject proyectilPrefab;
@@ -18,45 +17,31 @@ public class BossAngryController : MonoBehaviour
     [SerializeField] private float velocidadProyectil = 5f;
     [SerializeField] private float tiempoEntreDisparos = 3f;
 
-    [Header("--- Control ---")]
-    private bool yaSeEnfadoPorProximidad = false;
-    private int enemiesKilled = 0;
-    private float cronometroDisparo = 0f;
-
+    private float cronometroDisparo;
+    private bool estaMuerto = false;
     private SpriteRenderer spriteRenderer;
 
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+        cronometroDisparo = Time.time + tiempoEntreDisparos;
 
         GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
         if (playerObj != null)
             jugador = playerObj.transform;
         else
             Debug.LogWarning("¡No se encontró jugador con tag 'Player'!");
-
-        if (animator != null && !string.IsNullOrEmpty(idleStateName))
-            animator.Play(idleStateName);
-
-        cronometroDisparo = Time.time + tiempoEntreDisparos;
     }
 
     void Update()
     {
-        if (jugador == null) return;
+        if (estaMuerto || jugador == null) return;
 
         MirarJugador();
 
         float distancia = Vector2.Distance(transform.position, jugador.position);
 
-        // Activar enfado una sola vez al detectar al jugador
-        if (!yaSeEnfadoPorProximidad && distancia <= rangoDeteccion)
-        {
-            ActivarEnfadoPorProximidad();
-        }
-
-        // Disparar si ya se enfadó y el jugador está en rango
-        if (yaSeEnfadoPorProximidad && distancia <= rangoDeteccion)
+        if (distancia <= rangoDeteccion)
         {
             if (Time.time >= cronometroDisparo)
             {
@@ -66,22 +51,11 @@ public class BossAngryController : MonoBehaviour
         }
     }
 
-    private void ActivarEnfadoPorProximidad()
-    {
-        yaSeEnfadoPorProximidad = true;
-
-        if (animator != null && !string.IsNullOrEmpty(angryStateName))
-            animator.Play(angryStateName);
-
-        Debug.Log("¡Boss enfadado por proximidad del jugador!");
-    }
-
     private void LanzarProyectil()
     {
         if (proyectilPrefab == null || puntoDisparo == null || jugador == null) return;
 
         GameObject proyectil = Instantiate(proyectilPrefab, puntoDisparo.position, Quaternion.identity);
-
         Vector2 direccion = (jugador.position - puntoDisparo.position).normalized;
 
         Rigidbody2D rb = proyectil.GetComponent<Rigidbody2D>();
@@ -91,16 +65,47 @@ public class BossAngryController : MonoBehaviour
         Debug.Log("¡Kingpin dispara!");
     }
 
-    public void OnEnemyKilled()
+    public void TomarDamage(float damage)
     {
-        enemiesKilled++;
+        if (estaMuerto) return;
 
-        if (animator != null && !string.IsNullOrEmpty(angryStateName))
-            animator.Play(angryStateName);
+        vida -= damage;
+        Debug.Log("Boss recibe daño. Vida restante: " + vida);
 
-        Debug.Log("Boss enfadado. Enemigos muertos: " + enemiesKilled);
+        if (vida <= 0)
+            Muerte();
     }
 
+    private void Muerte()
+    {
+        estaMuerto = true;
+        GetComponent<Collider2D>().enabled = false;
+        this.enabled = false;
+
+        Debug.Log("¡Boss derrotado!");
+        StartCoroutine(MuerteYReinicio());
+    }
+
+    private IEnumerator MuerteYReinicio()
+    {
+        float duracion = 0.5f;
+        float tiempo = 0f;
+        Color colorInicial = spriteRenderer.color;
+
+        while (tiempo < duracion)
+        {
+            tiempo += Time.deltaTime;
+            spriteRenderer.color = Color.Lerp(colorInicial, Color.red, tiempo / duracion);
+            yield return null;
+        }
+
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+    public void OnEnemyKilled()
+    {
+        Debug.Log("Boss enfadado. Enemigos muertos.");
+    }
     private void MirarJugador()
     {
         if (jugador == null || spriteRenderer == null) return;
