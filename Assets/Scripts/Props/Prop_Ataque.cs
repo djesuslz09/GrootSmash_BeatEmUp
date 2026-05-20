@@ -8,20 +8,16 @@ public class StrengthProp : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        //Tag estándar "Player"
         if (other.CompareTag("Player"))
         {
-            //pruebas unificado
-            PlayerController_Props_Prueba player = other.GetComponent<PlayerController_Props_Prueba>();
+            PlayerController_Props_Prueba playerAttack = other.GetComponent<PlayerController_Props_Prueba>();
 
-            if (player != null)
+            if (playerAttack != null)
             {
-                // subir el daño
-                player.IncreaseDamage(extraDamage);
-
-                // El prop desaparece 
-                Destroy(gameObject);
+                playerAttack.IncreaseDamage(extraDamage);
             }
+
+            Destroy(gameObject);
         }
     }
 }
