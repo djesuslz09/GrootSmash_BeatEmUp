@@ -10,10 +10,21 @@ public class PlayerController : MonoBehaviour
     public int health = 100;
     public int defense = 0;
 
+
     public void IncreaseHealth(int amount)
     {
+        // 1. Sumamos los 20 puntos a las DOS variables directamente
         health += amount;
-        Debug.Log("Vida aumentada: " + health);
+        vidaJugador += amount;
+
+        // límite máximo para que no se pase de 100
+        if (vidaJugador > vidaMaxima) vidaJugador = vidaMaxima;
+        if (health > vidaMaxima) health = (int)vidaMaxima;
+
+        // Ambas variables tienen exactamente el mismo número
+        vidaJugador = health;
+
+        Debug.Log("Vida aumentada correctamente en +20. Vida actual: " + health);
     }
 
     public void IncreaseDefense(int amount)
@@ -21,7 +32,7 @@ public class PlayerController : MonoBehaviour
         defense += amount;
         Debug.Log("Defensa aumentada: " + defense);
     }
-
+       
 
     [Header("--- Movimiento ---")]
     [SerializeField] private float speedH = 5f;

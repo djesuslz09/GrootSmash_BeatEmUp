@@ -11,11 +11,11 @@ public class HealthProp : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // Acceder al script del jugador
-            PlayerController_Props_Prueba player = other.GetComponent<PlayerController_Props_Prueba>();
+            PlayerController player = other.GetComponent < PlayerController >();
             if (player != null)
             {
                 // Sumamos vida (si quieres un sistema de vida, agrega una variable 'health' en 'prueba')
-                player.Curar(extraHealth);
+                player.IncreaseHealth(extraHealth);
             }
 
             Destroy(gameObject); // El prop desaparece

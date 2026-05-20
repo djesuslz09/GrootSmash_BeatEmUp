@@ -2748,7 +2748,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af97060eb3c128b47b6b091597cffe30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  extraDefense: 5
+  defense: 20
 --- !u!212 &640072574
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6661,7 +6661,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51b7354c44a9f5341b89a83d21529d91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  extraDamage: 5
+  damage: 20
 --- !u!212 &1927450613
 SpriteRenderer:
   m_ObjectHideFlags: 0

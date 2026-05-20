@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class DefenseProp : MonoBehaviour
 {
-    public int extraDefense = 5; // Cantidad de defensa extra
+    public int defense = 20; // Cantidad de defensa extra
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            PlayerController player = other.GetComponent<PlayerController>();
+            PlayerController player = other.GetComponent< PlayerController > ();
             if (player != null)
             {
-                player.IncreaseDefense(extraDefense);
+                player.IncreaseDefense(defense);
             }
 
             Destroy(gameObject);

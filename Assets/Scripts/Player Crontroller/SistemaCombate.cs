@@ -116,9 +116,6 @@ public class SistemaCombate : MonoBehaviour
         Gizmos.color = Color.blue;
         if (puntoGolpeL != null) Gizmos.DrawWireSphere(puntoGolpeL.position, radioGolpeL);
     }
-
-
-
     // Función para que la UI sepa cuánta vida queda
     //public float ObtenerVida() => vidaJugador;
 }
