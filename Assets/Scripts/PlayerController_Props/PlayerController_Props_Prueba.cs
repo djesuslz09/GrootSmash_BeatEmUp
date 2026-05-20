@@ -14,8 +14,20 @@ public class PlayerController_Props_Prueba : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer; // arrastarrlo en el isnpector
 
-    
-    
+    //Prop vida
+    public int vidaActual = 50;
+    public int vidaMaxima = 100;
+
+    //Prop ataque
+    public int dañoAtaque = 10;
+
+
+    //Prop defensa
+
+
+
+
+
 
     // Update is called once per frame
     void Update()
@@ -47,7 +59,23 @@ public class PlayerController_Props_Prueba : MonoBehaviour
         }
         //animator.SetFloat("Velocidad", rbSpeed); //Para cambiar entre estados en el animator
 
+
     }
 
+    public void Curar(int cantidad)
+    {
+        vidaActual += cantidad;
 
+        if (vidaActual > vidaMaxima)
+        {
+            vidaActual = vidaMaxima;
+        }
+
+        Debug.Log("¡Jugador curado! Vida actual: " + vidaActual);
+    }
+    public void IncreaseDamage(int cantidad)
+    {
+        dañoAtaque += cantidad;
+        Debug.Log("¡Fuerza aumentada! Daño actual: " + dañoAtaque);
+    }
 }

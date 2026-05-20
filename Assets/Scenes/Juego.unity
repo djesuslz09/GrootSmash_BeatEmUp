@@ -4713,7 +4713,7 @@ Transform:
   m_GameObject: {fileID: 1269424307}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.038471527, y: -0.1541152, z: -10}
+  m_LocalPosition: {x: -0.0384717, y: -0.15411532, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5218,7 +5218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e83d7e8def9f6245ab81d974f38e3b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  extraHealth: 20
+  extraHealth: 1
 --- !u!212 &1471470658
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7099,7 +7099,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6850733765744998882}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -7243,7 +7243,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6850733765744998882}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -7260,7 +7260,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!114 &5168942254214750281
 MonoBehaviour:

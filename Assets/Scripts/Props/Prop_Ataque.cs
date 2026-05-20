@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,16 +8,20 @@ public class StrengthProp : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        //Tag estándar "Player"
         if (other.CompareTag("Player"))
         {
-            SistemaCombate playerAttack = other.GetComponent<SistemaCombate>();
+            //pruebas unificado
+            PlayerController_Props_Prueba player = other.GetComponent<PlayerController_Props_Prueba>();
 
-            if (playerAttack != null)
+            if (player != null)
             {
-               playerAttack.IncreaseDamage(extraDamage);
-            }
+                // subir el daño
+                player.IncreaseDamage(extraDamage);
 
-            Destroy(gameObject);
+                // El prop desaparece 
+                Destroy(gameObject);
+            }
         }
     }
 }
