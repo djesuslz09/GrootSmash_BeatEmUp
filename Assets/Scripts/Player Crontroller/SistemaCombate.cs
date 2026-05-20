@@ -100,6 +100,11 @@ public class SistemaCombate : MonoBehaviour
                 {
                     enemigoScript.TomarDamage(damage);
                 }
+                EnemigoBoss bossScript = colisionador.GetComponent<EnemigoBoss>();
+                if (bossScript != null)
+                {
+                    bossScript.TomarDamage(damage);
+                }
             }
         }
     }

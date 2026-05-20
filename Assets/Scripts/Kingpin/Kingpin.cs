@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class BossAngryController : MonoBehaviour
@@ -11,128 +12,104 @@ public class BossAngryController : MonoBehaviour
     private Transform jugador;
     [SerializeField] private float rangoDeteccion = 5f;
 
+    [Header("--- Proyectiles ---")]
+    [SerializeField] private GameObject proyectilPrefab;
+    [SerializeField] private Transform puntoDisparo;
+    [SerializeField] private float velocidadProyectil = 5f;
+    [SerializeField] private float tiempoEntreDisparos = 3f;
+
     [Header("--- Control ---")]
     private bool yaSeEnfadoPorProximidad = false;
     private int enemiesKilled = 0;
-    
+    private float cronometroDisparo = 0f;
+
     private SpriteRenderer spriteRenderer;
 
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
-        
-        // Busca al jugador
+
         GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
         if (playerObj != null)
             jugador = playerObj.transform;
+        else
+            Debug.LogWarning("¡No se encontró jugador con tag 'Player'!");
 
-        // Empezamos en idle
         if (animator != null && !string.IsNullOrEmpty(idleStateName))
-        {
             animator.Play(idleStateName);
-        }
+
+        cronometroDisparo = Time.time + tiempoEntreDisparos;
     }
 
     void Update()
     {
-        if (jugador == null || yaSeEnfadoPorProximidad) return;
+        if (jugador == null) return;
 
-        // Detecta si el jugador está cerca
+        MirarJugador();
+
         float distancia = Vector2.Distance(transform.position, jugador.position);
-        
-        if (distancia <= rangoDeteccion)
+
+        // Activar enfado una sola vez al detectar al jugador
+        if (!yaSeEnfadoPorProximidad && distancia <= rangoDeteccion)
         {
             ActivarEnfadoPorProximidad();
+        }
+
+        // Disparar si ya se enfadó y el jugador está en rango
+        if (yaSeEnfadoPorProximidad && distancia <= rangoDeteccion)
+        {
+            if (Time.time >= cronometroDisparo)
+            {
+                LanzarProyectil();
+                cronometroDisparo = Time.time + tiempoEntreDisparos;
+            }
         }
     }
 
     private void ActivarEnfadoPorProximidad()
     {
         yaSeEnfadoPorProximidad = true;
-        MirarJugador();
-        
-        // Reproduce animación de enfado
+
         if (animator != null && !string.IsNullOrEmpty(angryStateName))
-        {
             animator.Play(angryStateName);
-        }
-        
+
         Debug.Log("¡Boss enfadado por proximidad del jugador!");
     }
 
-    // Llamar desde GameManager2 cuando muera un enemigo
+    private void LanzarProyectil()
+    {
+        if (proyectilPrefab == null || puntoDisparo == null || jugador == null) return;
+
+        GameObject proyectil = Instantiate(proyectilPrefab, puntoDisparo.position, Quaternion.identity);
+
+        Vector2 direccion = (jugador.position - puntoDisparo.position).normalized;
+
+        Rigidbody2D rb = proyectil.GetComponent<Rigidbody2D>();
+        if (rb != null)
+            rb.velocity = direccion * velocidadProyectil;
+
+        Debug.Log("¡Kingpin dispara!");
+    }
+
     public void OnEnemyKilled()
     {
         enemiesKilled++;
-        MirarJugador();
 
-        // Reproduce animación de enfado
         if (animator != null && !string.IsNullOrEmpty(angryStateName))
-        {
             animator.Play(angryStateName);
-        }
 
         Debug.Log("Boss enfadado. Enemigos muertos: " + enemiesKilled);
     }
 
     private void MirarJugador()
     {
-        if (jugador == null) return;
-        
-        if (transform.position.x < jugador.position.x)
-            spriteRenderer.flipX = false;
-        else
-            spriteRenderer.flipX = true;
+        if (jugador == null || spriteRenderer == null) return;
+        spriteRenderer.flipX = transform.position.x < jugador.position.x;
     }
 
-    // Gizmos para ver el rango
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.magenta;
         Gizmos.DrawWireSphere(transform.position, rangoDeteccion);
     }
 }
-
-
-/*using UnityEngine;
-
-public class BossAngryController : MonoBehaviour
-{
-    [Header("Animaciones")]
-    public Animator animator;                    // Animator del boss
-    public string idleStateName = "BossIdle";   // nombre del clip idle
-    public string angryStateName = "BossAngry"; // nombre del clip enfado
-
-    [Header("Enemigos")]
-    public int totalEnemies = 5;                // cu�ntos enemigos hay
-    private int enemiesKilled = 0;
-
-    void Start()
-    {
-        // Empezamos en idle
-        if (animator != null && !string.IsNullOrEmpty(idleStateName))
-        {
-            animator.Play(idleStateName);
-        }
-    }
-
-    // Llamar desde los enemigos cuando mueran
-    public void OnEnemyKilled()
-    {
-        enemiesKilled++;
-
-        // Reproducir animaci�n de enfado
-        if (animator != null && !string.IsNullOrEmpty(angryStateName))
-        {
-            animator.Play(angryStateName);
-        }
-
-        // Si se murieron todos
-        if (enemiesKilled >= totalEnemies)
-        {
-            Debug.Log("�Todos los enemigos muertos! Fase del boss final.");
-            // Aqu� puedes: activar ataques del boss, cambiar m�sica, etc.
-            // animator.Play("BossAttack");
-        }
-    }
-}*/
