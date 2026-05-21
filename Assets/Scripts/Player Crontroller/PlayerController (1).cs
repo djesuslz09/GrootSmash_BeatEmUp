@@ -117,6 +117,12 @@ public class PlayerController : MonoBehaviour
             MuerteJugador();
             animator.SetTrigger("Muerte");
         }
+
+        if (ComboManager.Instance != null)
+        ComboManager.Instance.ResetCombo();
+
+    vidaJugador -= cantidad;
+    // ... resto del código
     }
     private void MuerteJugador()
     {
