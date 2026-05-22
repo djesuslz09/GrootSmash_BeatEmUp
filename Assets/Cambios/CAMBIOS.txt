@@ -4,3 +4,4 @@ A continuacion agrego script de karla con los audios y restauro scripts que por 
 a continuacion voy meter la rama de karla.
 A continuacion merge con rama de Dagmar con los Sprites
 A continuacion mergeo las ramas de alicia y karla que hicieron script y funciones y sonido.
+A continuacion commit patata para unir todas las ramas de soluciones.
