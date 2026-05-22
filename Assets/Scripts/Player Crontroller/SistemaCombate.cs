@@ -94,11 +94,20 @@ public class SistemaCombate : MonoBehaviour
 
             foreach (Collider2D colisionador in objetos)
             {
-                // Verificamos si tiene el script Enemigo antes de llamar
                 Enemigo enemigoScript = colisionador.GetComponent<Enemigo>();
                 if (enemigoScript != null)
                 {
                     enemigoScript.TomarDamage(damage);
+                    if (ComboManager.Instance != null)
+                        ComboManager.Instance.SumarCombo();
+                }
+
+                BossAngryController bossScript = colisionador.GetComponent<BossAngryController>();
+                if (bossScript != null)
+                {
+                    bossScript.TomarDamage(damage);
+                    if (ComboManager.Instance != null)
+                        ComboManager.Instance.SumarCombo();
                 }
             }
         }

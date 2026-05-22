@@ -10,6 +10,21 @@ public class ProyectilBoss : MonoBehaviour
         // Autodestruye el proyectil después de un tiempo
         Destroy(gameObject, tiempoVida);
     }
+    private void Update()
+    {
+        // Busca al jugador y comprueba distancia
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            if (Vector2.Distance(transform.position, player.transform.position) < 0.5f)
+            {
+                PlayerController pc = player.GetComponent<PlayerController>();
+                if (pc != null)
+                    pc.RecibirDaño(damage);
+                Destroy(gameObject);
+            }
+        }
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -25,9 +40,9 @@ public class ProyectilBoss : MonoBehaviour
         }
 
         // Si golpea paredes u obstáculos (opcional)
-        if (collision.CompareTag("Wall") || collision.CompareTag("Obstacle"))
+        /*if (collision.CompareTag("Wall") || collision.CompareTag("Obstacle"))
         {
             Destroy(gameObject);
-        }
+        }*/
     }
 }
