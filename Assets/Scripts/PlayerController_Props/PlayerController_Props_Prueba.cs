@@ -14,9 +14,6 @@ public class PlayerController_Props_Prueba : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer; // arrastarrlo en el isnpector
 
-    
-    
-
     // Update is called once per frame
     void Update()
     {
@@ -47,7 +44,7 @@ public class PlayerController_Props_Prueba : MonoBehaviour
         }
         //animator.SetFloat("Velocidad", rbSpeed); //Para cambiar entre estados en el animator
 
-    }
 
+    }
 
 }
